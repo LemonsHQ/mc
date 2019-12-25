@@ -1,0 +1,50 @@
+# MultiChat, chat format plugin for Multipass
+#
+general:
+# Messages language. Supported languages:
+# eng - English
+  language: default
+# Save translation file
+  language-save: false
+# Debug mode. Usually you don't need to turn it on
+  debug: false
+chat:
+# Default chat format
+  format: '&6%player%&e: %message%'
+name-tag:
+# Default name-tag format
+  enable: true
+  format: '&a%prefix%&6%player%'
+# Remove color codes from name tags
+  strip-colors: false
+display-name:
+# Enable display name (shown by TAB-key)
+  enable: true
+  format: '&a%prefix%&6%player%&e: %message%'
+# Remove color codes from display name
+  strip-colors: false
+
+# Per-group formats configuration
+group:
+# Scan sub-groups (group in groups)
+  scan-subgroups: true
+# Chat format 
+  format:
+    default: # Group name
+      chat: '&7[Member]&f%player%: %message%' # Chat format
+      name-tag: '&7[Member] &f%player%' # Name tag format
+    builder: # Group name
+      chat: '&4[Build]&f%player%: %message%' # Chat format
+      name-tag: '&6[Build] &f%player%' # Name tag format
+    headbuilder: # Group name
+      chat: '&4[HeadBuild]&f%player%: %message%' # Chat format
+      name-tag: '&4[HeadBuild]&f%player%' # Name tag format
+    admins: # Group name
+      chat: '&6[Admin]&f%player%: %message%' # Chat format
+      name-tag: '&6[Admin] &f%player%' # Name tag format
+    owners: # Group name
+      chat: '&b[Owner]&f%player%: %message%' # Chat format
+      name-tag: '&b[Owner] &f%player%' # Name tag format
+    vip: # Group name
+      chat: '&6[VIP]&f%player%: %message%' # Chat format
+      name-tag: '&6[VIP] &f%player%' # Name tag format

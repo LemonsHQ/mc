@@ -1,0 +1,83 @@
+data:
+  place:
+    state: false
+  interact:
+    state: false
+  use:
+    state: true
+  pvp:
+    state: true
+  explode:
+    state: true
+  lighter:
+    state: true
+  magic-item:
+    state: false
+  heal:
+    state: false
+  invincible:
+    state: false
+  teleport:
+    state: false
+    position:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      level: ''
+  sell:
+    state: false
+    price: 0
+  potion-launch:
+    state: false
+  move:
+    state: false
+  leaves-decay:
+    state: false
+  item-drop:
+    state: false
+  send-chat:
+    state: false
+  receive-chat:
+    state: false
+  health-regen:
+    state: false
+  mob-damage:
+    state: false
+  mob-spawn:
+    state: false
+  crops-destroy:
+    state: true
+  redstone:
+    state: false
+  ender-pearl:
+    state: false
+  explode-block-break:
+    state: true
+  lightning-strike:
+    state: true
+  fire:
+    state: false
+  liquid-flow:
+    state: true
+  chest-access:
+    state: true
+  sleep:
+    state: false
+  break:
+    state: true
+  chunk-loader:
+    state: false
+  smart-doors:
+    state: true
+  minefarm:
+    state: false
+  fall-damage:
+    state: false
+  nether-portal:
+    state: true
+  frame-item-drop:
+    state: true
+  bucket-empty:
+    state: true
+  bucket-fill:
+    state: true

@@ -1,0 +1,5 @@
+Food:
+  name: Food
+  items:
+    porkchops:
+      price: 5.0

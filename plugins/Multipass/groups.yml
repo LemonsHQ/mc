@@ -1,0 +1,70 @@
+admins:
+  groups: []
+  permissions:
+  - essentialsnk.mute
+  - essentialsnk.fly
+  - nukkit.command.kick
+  - fawe.admin
+  - nukkit.command.ban
+  - nukkit.command.teleport
+  - seeinv.command.use
+  - cenk.command.use
+  prefix: ''
+  suffix: ''
+  priority: 10
+  worlds: {}
+builder:
+  groups: []
+  permissions:
+  - essentialsnk.mute
+  - essentialsnk.fly
+  - nukkit.command.kick
+  - fawe.admin
+  - seeinv.command.use
+  - cenk.command.use
+  - essentialsnk.gamemode
+  prefix: ''
+  suffix: ''
+  priority: 10
+  worlds: {}
+default:
+  groups: []
+  permissions: []
+  prefix: ''
+  suffix: ''
+  priority: 0
+  worlds: {}
+headbuilder:
+  groups: []
+  permissions:
+  - essentialsnk.mute
+  - essentialsnk.fly
+  - nukkit.command.kick
+  - fawe.admin
+  - seeinv.command.use
+  - cenk.command.use
+  - essentialsnk.gamemode
+  prefix: ''
+  suffix: ''
+  priority: 10
+  worlds: {}
+owners:
+  groups: []
+  permissions: []
+  prefix: ''
+  suffix: ''
+  priority: 10
+  worlds: {}
+vip:
+  groups: []
+  permissions:
+  - Zero.can.RTP
+  - essentialsnk.fly
+  - essentialsnk.repair.all
+  - cenk.command.use
+  - pets.call
+  - particle.critical
+  prefix: ''
+  suffix: ''
+  priority: 10
+  worlds: {}

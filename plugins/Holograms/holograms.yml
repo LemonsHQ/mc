@@ -1,0 +1,115 @@
+version: 2
+holograms:
+  warps:
+    update: -1
+    data:
+    - - §3Warps
+      - /warp (place)
+      - pvp
+      - hub
+      - factions
+      - shop
+    grid: true
+    grid_normalize: true
+    grid_col_space: 10
+    grid_source: ''
+    grid_header: true
+    column_templates: []
+  shop:
+    update: -1
+    data:
+    - - §cShop
+      - 'Welcome To Shop '
+      - 'Here you can buy armor food and ETC '
+      - By Money you can get money by /sell and /sellinv
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  faction:
+    update: -1
+    data:
+    - - §1Faction
+      - Welcome To The Faction Hub
+      - Grab A bout and start this server has everthing for faction
+      - Have Fun And Stay Safe
+      - 'Do /rtp to get started to get teloported some place '
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  rules:
+    update: -1
+    data:
+    - - §4§lRules
+      - No camping
+      - Do not harass players or attempt to bully them off the server
+      - 'Do Not Spawn Camp '
+      - DO Not DoXX players or reveal private info
+      - 'Do not use glishes/hacks/modified client '
+      - Do not abuse glishes
+      - Do Not Combat LOG
+      - Do Not Spawn KILL
+      - 'Do Not Argue We are here to have fun Not Fight If seen you will get muted '
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+      - ''
+    grid: true
+    grid_normalize: true
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: true
+    column_templates: []
+  welcome:
+    update: -1
+    data:
+    - - §1Welcome to Starfall§f%player%§1!!!
+      - This Server is About Faction
+      - 'On this server we have maps based on the region/server u are in '
+      - This Server has Kits Warps Spawn-ETC...
+      - We have Builders Mods Admins and More
+      - 'In The Future We Will Be Adging More '
+      - Thank you and have Fun
+      - And Be sure to join Our Discord AT
+      - https://discord.gg/zxgj5ej
+      - ''
+      - ''
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  example:
+    update: -1
+    data:
+    - - Example hologram
+      - Yes, and second line
+      - '!!!'
+    - - Zkusebni hologram
+      - Ano, druhy radek
+      - '!!!'
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []
+  updte:
+    update: -1
+    data: []
+    grid: false
+    grid_normalize: false
+    grid_col_space: 20
+    grid_source: ''
+    grid_header: false
+    column_templates: []

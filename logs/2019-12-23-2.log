@@ -1,0 +1,161 @@
+2019-12-23 22:17:15.545 [main] INFO  - Loading §anukkit.yml§f ...
+2019-12-23 22:17:15.934 [main] INFO  - Loading §aserver.properties§f ...
+2019-12-23 22:17:15.985 [main] INFO  - Selected English (eng) as the base language
+2019-12-23 22:17:15.997 [main] INFO  - Starting Minecraft: BE server version §bv1.14.0§r
+2019-12-23 22:17:16.063 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-12-23 22:17:16.404 [main] INFO  - Opening server on 0.0.0.0:19132
+2019-12-23 22:17:16.534 [main] INFO  - This server is running Nukkit version §egit-8088000§f "§b§f" (API 1.0.9)
+2019-12-23 22:17:16.550 [main] INFO  - Nukkit is distributed under the LGPL License
+2019-12-23 22:17:19.694 [main] INFO  - Loading recipes...
+2019-12-23 22:17:20.281 [main] INFO  - Loaded 1320 recipes.
+2019-12-23 22:17:20.294 [main] INFO  - Successfully loaded 0 resource packs
+2019-12-23 22:17:20.365 [main] ERROR - Could not load plugin "DiscordChat": plugin exists
+2019-12-23 22:17:20.435 [main] INFO  - Loading AutoCleaner v1.0.1
+2019-12-23 22:17:20.463 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 22:17:20.481 [main] INFO  - Loading CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:17:20.511 [main] INFO  - Loading DiscordChat v1.1
+2019-12-23 22:17:20.526 [main] INFO  - Loading EconomyAPI v2.0.1
+2019-12-23 22:17:20.609 [main] INFO  - Loading EssentialsNK v1.8.0
+2019-12-23 22:17:20.707 [main] INFO  - Loading Factions v1.7.0
+2019-12-23 22:17:20.775 [main] INFO  - Loading FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:17:20.782 [RakNet Thread #14] INFO  - Epoll Status is false
+2019-12-23 22:17:20.820 [main] INFO  - Loading LuckPerms v5.0.24
+2019-12-23 22:17:21.093 [main] INFO  - Loading MultiWorld v1.0
+2019-12-23 22:17:21.341 [main] INFO  - Loading Pokkit v0.9.1
+2019-12-23 22:17:21.721 [main] INFO  - [Pokkit] This server is running Nukkit version v1.14.0 (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+2019-12-23 22:17:21.804 [main] INFO  - [Pokkit] Server permissions file C:\Users\Lemon\OneDrive\Documents\Music\Desktop\nukkit\plugins\Pokkit\permissions.yml is empty, ignoring it
+2019-12-23 22:17:22.010 [main] INFO  - [Pokkit] [Vault] Enabling Vault v1.7.2-b107
+2019-12-23 22:17:22.251 [main] INFO  - [Pokkit] [Vault] [Permission] SuperPermissions loaded as backup permission system.
+2019-12-23 22:17:22.364 [main] INFO  - [Pokkit] [Vault] Enabled Version 1.7.2-b107
+2019-12-23 22:17:22.384 [main] INFO  - Loading ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:17:22.405 [main] FATAL - Could not load plugin "SeeInv": Unknown dependency
+2019-12-23 22:17:22.416 [main] INFO  - Loading ZChat v1.0.21-Beta
+2019-12-23 22:17:22.441 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 22:17:22.446 [main] FATAL - Could not load plugin "SeeInv": Unknown dependency
+2019-12-23 22:17:22.453 [main] FATAL - Could not load plugin "BowHitAlert": Circular dependency detected
+2019-12-23 22:17:22.461 [main] FATAL - Could not load plugin "SeeInv": Circular dependency detected
+2019-12-23 22:17:22.466 [main] INFO  - Enabling LuckPerms v5.0.24
+2019-12-23 22:17:22.587 [main] INFO  - §b       §3 __
+2019-12-23 22:17:22.672 [main] INFO  - §b  |    §3|__)   §2LuckPerms §bv5.0.24
+2019-12-23 22:17:22.701 [main] INFO  - §b  |___ §3|      §8Running on Nukkit - Nukkit
+2019-12-23 22:17:22.719 [main] INFO  - 
+2019-12-23 22:17:22.784 [main] INFO  - [LuckPerms] Loading configuration...
+2019-12-23 22:17:25.936 [main] INFO  - [LuckPerms] Loading storage provider... [H2]
+2019-12-23 22:17:27.370 [main] INFO  - [LuckPerms] Loading internal permission managers...
+2019-12-23 22:17:27.580 [main] INFO  - [LuckPerms] Performing initial data load...
+2019-12-23 22:17:27.813 [main] INFO  - [LuckPerms] Successfully enabled. (took 5334ms)
+2019-12-23 22:17:27.930 [main] INFO  - Preparing level "§aworld§f"
+2019-12-23 22:17:28.035 [main] INFO  - Preparing level "§anether§f"
+2019-12-23 22:17:28.045 [main] INFO  - Enabling AutoCleaner v1.0.1
+2019-12-23 22:17:28.052 [main] INFO  - [AutoCleaner] §2Plugin by Extollite
+2019-12-23 22:17:28.068 [main] INFO  - Enabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:17:28.137 [main] INFO  - Enabling DiscordChat v1.1
+2019-12-23 22:17:30.003 [main] ERROR - [DiscordChat] Couldn't enable Discord chat sync
+2019-12-23 22:17:30.010 [main] INFO  - Enabling EconomyAPI v2.0.1
+2019-12-23 22:17:30.088 [main] WARN  - [EconomyAPI] Data provider was set to: Yaml
+2019-12-23 22:17:30.106 [main] INFO  - Enabling EssentialsNK v1.8.0
+2019-12-23 22:17:30.195 [main] INFO  - [EssentialsNK] EssentialsNK Loaded!
+2019-12-23 22:17:30.211 [main] INFO  - Enabling Factions v1.7.0
+2019-12-23 22:17:30.216 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE START ===
+2019-12-23 22:17:30.324 [main] INFO  - [Factions] [Factions v1.7.0] Loading board from disk
+2019-12-23 22:17:30.404 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE DONE (Took 184ms) ===
+2019-12-23 22:17:30.408 [main] INFO  - Enabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:17:32.831 [main] INFO  - Enabling MultiWorld v1.0
+2019-12-23 22:17:32.835 [main] INFO  - [Pokkit] [Kitpvp] Enabling Kitpvp v2.0
+2019-12-23 22:17:32.864 [main] ERROR - [Pokkit] [Kitpvp] - Disabled due to no Vault dependency found!
+2019-12-23 22:17:32.867 [main] INFO  - [Pokkit] [Kitpvp] Disabling Kitpvp v2.0
+2019-12-23 22:17:32.872 [main] INFO  - Enabling Pokkit v0.9.1
+2019-12-23 22:17:32.878 [main] INFO  - [Pokkit] [Kitpvp] Enabling Kitpvp v2.0
+2019-12-23 22:17:32.882 [main] WARN  - [Pokkit] Enabled plugin with unregistered PluginClassLoader Kitpvp v2.0
+2019-12-23 22:17:32.887 [main] ERROR - [Pokkit] [Kitpvp] - Disabled due to no Vault dependency found!
+2019-12-23 22:17:32.892 [main] INFO  - [Pokkit] [Kitpvp] Disabling Kitpvp v2.0
+2019-12-23 22:17:32.919 [main] INFO  - Enabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:17:32.923 [main] INFO  - [ReportSystem] Starting ReportSystem...
+2019-12-23 22:17:32.926 [main] INFO  - [ReportSystem] Loading all components...
+2019-12-23 22:17:32.955 [main] INFO  - [ReportSystem] Using config...
+2019-12-23 22:17:32.963 [main] INFO  - [ReportSystem] §aPlugin successfully started.
+2019-12-23 22:17:32.966 [main] INFO  - Enabling ZChat v1.0.21-Beta
+2019-12-23 22:17:32.975 [main] INFO  - 
+
+§1===============================================
+	§b _____§3      ________          __ 
+	§b/__  /§3     / ____/ /_  ____ _/ /_
+	§b  / / §3    / /   / __ \/ __ `/ __/
+	§b / /__§3   / /___/ / / / /_/ / /_  
+	§b/____/§3   \____/_/ /_/\__,_/\__/  
+	§b      §3                           
+§l===============================================
+
+2019-12-23 22:17:32.988 [main] INFO  - §f[ §5§bZ§3Chat §f] §rLoading data...
+2019-12-23 22:17:33.057 [main] WARN  - §f[ §5§bZ§3Chat §f] §r§cFactions plugin found!
+2019-12-23 22:17:33.065 [main] WARN  - §f[ §5§bZ§3Chat §f] §r§cEconomyAPI found!
+2019-12-23 22:17:33.073 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§2Hooking with LuckPerms
+2019-12-23 22:17:33.078 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§bStarting listeners..
+2019-12-23 22:17:33.104 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§bReady to go~
+2019-12-23 22:17:33.111 [main] ERROR - §f[ §5§bZ§3Chat §f] §r§cPlaceholderAPI not found! This may impact performance
+2019-12-23 22:17:33.256 [main] INFO  - Starting GS4 status listener
+2019-12-23 22:17:33.260 [main] INFO  - Setting query port to 19132
+2019-12-23 22:17:33.265 [main] INFO  - Query is running on 0.0.0.0:19132
+2019-12-23 22:17:33.270 [main] INFO  - Default game type: Survival Mode
+2019-12-23 22:17:33.273 [main] INFO  - Done (17.988s)! For help, type "help" or "?"
+2019-12-23 22:17:33.389 [Nukkit Asynchronous Task Handler #4] INFO  - [Pokkit] [Vault] Checking for Updates ... 
+2019-12-23 22:17:34.066 [Nukkit Asynchronous Task Handler #4] INFO  - [Pokkit] [Vault] No new version available
+2019-12-23 22:19:10.342 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged in with entity id 1 at (world, 9987.6689, 88.0, 100014.2344)
+2019-12-23 22:19:11.800 [main] INFO  - §aBeasty6000 joined the game
+2019-12-23 22:21:12.815 [main] INFO  - %player% >> t
+2019-12-23 22:21:13.159 [main] INFO  - %player% >> t
+2019-12-23 22:21:15.518 [main] INFO  - %player% >> t
+2019-12-23 22:21:16.607 [main] INFO  - %player% >> t
+2019-12-23 22:22:30.013 [main] INFO  - §c5 seconds left to cleaning items on the ground!
+2019-12-23 22:22:31.035 [main] INFO  - §c4 seconds left to cleaning items on the ground!
+2019-12-23 22:22:32.015 [main] INFO  - §c3 seconds left to cleaning items on the ground!
+2019-12-23 22:22:33.013 [main] INFO  - §c2 seconds left to cleaning items on the ground!
+2019-12-23 22:22:34.014 [main] INFO  - §c1 second left to cleaning items on the ground!
+2019-12-23 22:22:35.012 [main] INFO  - §cItems on the ground deleted!
+2019-12-23 22:24:55.138 [main] INFO  - [CONSOLE: Stopping the server]
+2019-12-23 22:24:55.195 [main] FATAL - Could not pass event "cn.nukkit.event.player.PlayerQuitEvent" to "FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14": null on com.boydti.fawe.nukkit.optimization.FaweNukkit
+2019-12-23 22:24:55.204 [main] ERROR - Throwing
+cn.nukkit.utils.EventException: null
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:34) ~[nukkit-357.jar:?]
+	at cn.nukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:56) ~[nukkit-357.jar:?]
+	at cn.nukkit.plugin.PluginManager.callEvent(PluginManager.java:546) [nukkit-357.jar:?]
+	at cn.nukkit.Player.close(Player.java:3582) [nukkit-357.jar:?]
+	at cn.nukkit.Player.close(Player.java:3568) [nukkit-357.jar:?]
+	at cn.nukkit.Server.forceShutdown(Server.java:821) [nukkit-357.jar:?]
+	at cn.nukkit.Server.start(Server.java:881) [nukkit-357.jar:?]
+	at cn.nukkit.Server.<init>(Server.java:565) [nukkit-357.jar:?]
+	at cn.nukkit.Nukkit.main(Nukkit.java:112) [nukkit-357.jar:?]
+Caused by: java.lang.NullPointerException
+	at com.sk89q.worldedit.command.tool.BrushTool.clear(BrushTool.java:642) ~[?:?]
+	at com.boydti.fawe.object.FawePlayer.unregister(FawePlayer.java:656) ~[?:?]
+	at com.boydti.fawe.nukkit.optimization.FaweNukkit.onPlayerQuit(FaweNukkit.java:125) ~[?:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_211]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_211]
+	at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_211]
+	at cn.nukkit.plugin.MethodEventExecutor.execute(MethodEventExecutor.java:29) ~[nukkit-357.jar:?]
+	... 8 more
+2019-12-23 22:24:55.968 [main] INFO  - §cBeasty6000 left the game
+2019-12-23 22:24:56.023 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged out due to Server closed
+2019-12-23 22:24:56.047 [main] INFO  - Disabling ZChat v1.0.21-Beta
+2019-12-23 22:24:56.073 [main] INFO  - §f[ §5§bZ§3Chat §f] §rThank you for using ZChat. Please consider rating if you're enjoying it.
+2019-12-23 22:24:56.111 [main] INFO  - Disabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:24:56.121 [main] INFO  - [ReportSystem] Disabling ReportSystem...
+2019-12-23 22:24:56.131 [main] INFO  - Disabling Pokkit v0.9.1
+2019-12-23 22:24:56.163 [main] INFO  - [Pokkit] [Vault] Disabling Vault v1.7.2-b107
+2019-12-23 22:24:56.166 [main] INFO  - Disabling MultiWorld v1.0
+2019-12-23 22:24:56.169 [main] INFO  - Disabling LuckPerms v5.0.24
+2019-12-23 22:24:56.194 [main] INFO  - [LuckPerms] Closing storage...
+2019-12-23 22:24:56.536 [main] INFO  - [LuckPerms] Shutting down internal scheduler...
+2019-12-23 22:24:56.539 [main] INFO  - [LuckPerms] Goodbye!
+2019-12-23 22:24:56.542 [main] INFO  - Disabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:24:56.545 [main] INFO  - Disabling Factions v1.7.0
+2019-12-23 22:24:56.576 [main] INFO  - [Factions] [Factions v1.7.0] Disabled
+2019-12-23 22:24:56.579 [main] INFO  - Disabling EssentialsNK v1.8.0
+2019-12-23 22:24:56.582 [main] INFO  - Disabling EconomyAPI v2.0.1
+2019-12-23 22:24:56.589 [main] INFO  - Disabling DiscordChat v1.1
+2019-12-23 22:24:56.593 [main] INFO  - Disabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:24:56.595 [main] INFO  - Disabling AutoCleaner v1.0.1
+2019-12-23 22:24:56.600 [main] INFO  - Unloading level "§aworld§f"
+2019-12-23 22:24:58.750 [main] INFO  - Unloading level "§anether§f"
+2019-12-23 22:24:58.851 [main] INFO  - Stopping other threads

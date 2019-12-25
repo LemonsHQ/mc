@@ -1,0 +1,187 @@
+2019-12-24 21:53:07.555 [main] INFO  - Loading §anukkit.yml§f ...
+2019-12-24 21:53:07.783 [main] INFO  - Loading §aserver.properties§f ...
+2019-12-24 21:53:07.803 [main] INFO  - Selected English (eng) as the base language
+2019-12-24 21:53:07.806 [main] INFO  - Starting Minecraft: BE server version §bv1.14.0§r
+2019-12-24 21:53:07.825 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-12-24 21:53:07.975 [main] INFO  - Opening server on 0.0.0.0:19132
+2019-12-24 21:53:08.069 [main] INFO  - This server is running Nukkit version §egit-8088000§f "§b§f" (API 1.0.9)
+2019-12-24 21:53:08.074 [main] INFO  - Nukkit is distributed under the LGPL License
+2019-12-24 21:53:12.774 [main] INFO  - Loading recipes...
+2019-12-24 21:53:13.568 [main] INFO  - Loaded 1320 recipes.
+2019-12-24 21:53:13.604 [main] INFO  - Successfully loaded 0 resource packs
+2019-12-24 21:53:13.808 [main] INFO  - Loading AutoCleaner v1.0.1
+2019-12-24 21:53:13.854 [main] INFO  - Loading CustomEnchantsNK v1.0.0-beta3
+2019-12-24 21:53:13.889 [main] INFO  - Loading DiscordChat v2.0-beta
+2019-12-24 21:53:13.913 [main] INFO  - Loading EconomyAPI v2.0.1
+2019-12-24 21:53:13.948 [main] INFO  - Loading EconomyJob v1.0
+2019-12-24 21:53:13.976 [main] INFO  - Loading EssentialsNK v1.8.0
+2019-12-24 21:53:14.030 [main] INFO  - Loading Factions v1.7.0
+2019-12-24 21:53:14.067 [main] INFO  - Loading FakeInventories v1.0.3
+2019-12-24 21:53:14.086 [RakNet Thread #14] INFO  - Epoll Status is false
+2019-12-24 21:53:14.105 [main] INFO  - Loading FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-24 21:53:14.130 [main] INFO  - Loading KotlinLib v1.1
+2019-12-24 21:53:14.154 [main] INFO  - Loading LoveRTP v1
+2019-12-24 21:53:14.180 [main] INFO  - Loading MultiWorld v1.0
+2019-12-24 21:53:14.227 [main] INFO  - Loading PlaceholderAPI v1.3.1
+2019-12-24 21:53:14.580 [main] INFO  - Loading Pokkit v0.9.1
+2019-12-24 21:53:15.280 [main] INFO  - [Pokkit] This server is running Nukkit version v1.14.0 (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+2019-12-24 21:53:15.395 [main] INFO  - [Pokkit] Server permissions file C:\Users\Lemon\OneDrive\Documents\Music\Desktop\nukkit\plugins\Pokkit\permissions.yml is empty, ignoring it
+2019-12-24 21:53:15.597 [main] INFO  - [Pokkit] [Vault] Enabling Vault v1.7.2-b107
+2019-12-24 21:53:15.911 [main] INFO  - [Pokkit] [Vault] [Permission] SuperPermissions loaded as backup permission system.
+2019-12-24 21:53:16.032 [main] INFO  - [Pokkit] [Vault] Enabled Version 1.7.2-b107
+2019-12-24 21:53:16.041 [main] INFO  - Loading QuickSpawns v1.0
+2019-12-24 21:53:16.059 [main] INFO  - [QuickSpawns] Loading QuickSpawns...
+2019-12-24 21:53:16.073 [main] INFO  - Loading ReportSystem v1.0-SNAPSHOT
+2019-12-24 21:53:16.092 [main] INFO  - Loading SeeInv v1.0
+2019-12-24 21:53:16.124 [main] INFO  - Loading SRegionProtector v20.2
+2019-12-24 21:53:16.210 [main] INFO  - Loading ChestShop v1.1.1
+2019-12-24 21:53:16.266 [main] INFO  - Loading Holograms v3.1.3
+2019-12-24 21:53:16.328 [main] INFO  - [Holograms] Loading characters...
+2019-12-24 21:53:16.761 [main] INFO  - [Holograms] Loading config...
+2019-12-24 21:53:16.846 [main] INFO  - [Holograms] Loading placeholders
+2019-12-24 21:53:16.896 [main] INFO  - [Holograms] Registering default grid sources
+2019-12-24 21:53:16.939 [main] INFO  - Loading Multipass v${pom.version}
+2019-12-24 21:53:16.983 [main] INFO  - Loading MultiChat v1.0.2
+2019-12-24 21:53:17.004 [main] INFO  - Enabling QuickSpawns v1.0
+2019-12-24 21:53:17.013 [main] INFO  - [QuickSpawns] Enabling QuickSpawns..
+2019-12-24 21:53:17.051 [main] INFO  - Enabling SRegionProtector v20.2
+2019-12-24 21:53:17.313 [main] INFO  - [§eSRegionProtector§f] §aData provider was set to YAML
+2019-12-24 21:53:17.703 [main] INFO  - [§eSRegionProtector§f] §aLoaded 2 regions and 94 chunks
+2019-12-24 21:53:18.004 [main] INFO  - Enabling Holograms v3.1.3
+2019-12-24 21:53:18.010 [main] INFO  - [Holograms] Loading grid config...
+2019-12-24 21:53:18.028 [main] INFO  - [Holograms] Loading holograms
+2019-12-24 21:53:18.311 [main] INFO  - Preparing level "§acruiser§f"
+2019-12-24 21:53:18.442 [main] INFO  - Preparing level "§anether§f"
+2019-12-24 21:53:18.459 [main] INFO  - Enabling AutoCleaner v1.0.1
+2019-12-24 21:53:18.470 [main] INFO  - [AutoCleaner] §2Plugin by Extollite
+2019-12-24 21:53:18.490 [main] INFO  - Enabling CustomEnchantsNK v1.0.0-beta3
+2019-12-24 21:53:18.565 [main] INFO  - Enabling DiscordChat v2.0-beta
+2019-12-24 21:53:24.508 [main] INFO  - Enabling EconomyAPI v2.0.1
+2019-12-24 21:53:24.635 [main] WARN  - [EconomyAPI] Data provider was set to: Yaml
+2019-12-24 21:53:24.645 [main] INFO  - Enabling EconomyJob v1.0
+2019-12-24 21:53:24.667 [main] INFO  - Enabling EssentialsNK v1.8.0
+2019-12-24 21:53:24.796 [main] INFO  - [EssentialsNK] EssentialsNK Loaded!
+2019-12-24 21:53:24.902 [main] INFO  - Enabling Factions v1.7.0
+2019-12-24 21:53:25.013 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE START ===
+2019-12-24 21:53:25.171 [main] INFO  - [Factions] [Factions v1.7.0] Loading board from disk
+2019-12-24 21:53:25.291 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE DONE (Took 264ms) ===
+2019-12-24 21:53:25.294 [main] INFO  - Enabling FakeInventories v1.0.3
+2019-12-24 21:53:25.310 [main] INFO  - Enabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-24 21:53:28.290 [main] INFO  - Enabling KotlinLib v1.1
+2019-12-24 21:53:28.307 [main] INFO  - Enabling LoveRTP v1
+2019-12-24 21:53:28.322 [main] INFO  - §8[§bLoveRTP§8] §rv1§a Enabled
+2019-12-24 21:53:28.326 [main] INFO  - Enabling MultiWorld v1.0
+2019-12-24 21:53:28.331 [main] INFO  - Enabling PlaceholderAPI v1.3.1
+2019-12-24 21:53:28.354 [main] INFO  - Enabling Pokkit v0.9.1
+2019-12-24 21:53:28.403 [main] INFO  - Enabling ReportSystem v1.0-SNAPSHOT
+2019-12-24 21:53:28.410 [main] INFO  - [ReportSystem] Starting ReportSystem...
+2019-12-24 21:53:28.414 [main] INFO  - [ReportSystem] Loading all components...
+2019-12-24 21:53:28.463 [main] INFO  - [ReportSystem] Using config...
+2019-12-24 21:53:28.474 [main] INFO  - [ReportSystem] §aPlugin successfully started.
+2019-12-24 21:53:28.480 [main] INFO  - Enabling SeeInv v1.0
+2019-12-24 21:53:28.487 [main] INFO  - Enabling ChestShop v1.1.1
+2019-12-24 21:53:28.552 [main] INFO  - Enabling Multipass v${pom.version}
+2019-12-24 21:53:28.671 [main] INFO  - [Multipass] §aData provider: §2YAML§a
+2019-12-24 21:53:28.736 [main] INFO  - Enabling MultiChat v1.0.2
+2019-12-24 21:53:29.011 [main] INFO  - Starting GS4 status listener
+2019-12-24 21:53:29.029 [main] INFO  - Setting query port to 19132
+2019-12-24 21:53:29.059 [main] INFO  - Query is running on 0.0.0.0:19132
+2019-12-24 21:53:29.070 [main] INFO  - Default game type: Survival Mode
+2019-12-24 21:53:29.076 [main] INFO  - Done (21.746s)! For help, type "help" or "?"
+2019-12-24 21:53:32.181 [Nukkit Asynchronous Task Handler #0] INFO  - [Pokkit] [Vault] Checking for Updates ... 
+2019-12-24 21:53:32.694 [main] INFO  - §bKawaiiKid1128§f[/98.178.163.108:41517] logged in with entity id 1 at (cruiser, -897.288, 235.0, -464.3138)
+2019-12-24 21:53:34.188 [Nukkit Asynchronous Task Handler #0] INFO  - [Pokkit] [Vault] No new version available
+2019-12-24 21:53:34.326 [main] INFO  - §eKawaiiKid1128 joined the game
+2019-12-24 21:53:44.713 [main] INFO  - §bBeasty6000§f[/173.75.62.21:50814] logged in with entity id 45 at (cruiser, -897.5333, 235.0, -462.0194)
+2019-12-24 21:53:45.518 [main] INFO  - §eBeasty6000 joined the game
+2019-12-24 21:53:55.033 [main] INFO  - §bLemonSqueezy360§f[/192.168.1.254:19133] logged in with entity id 46 at (cruiser, -948.8231, 235.0, -541.6112)
+2019-12-24 21:53:56.227 [main] INFO  - §eLemonSqueezy360 joined the game
+2019-12-24 21:55:23.085 [main] INFO  - [Factions] [Factions v1.7.0] The faction Owners (1) was disbanded by Beasty6000.
+2019-12-24 21:55:23.090 [main] INFO  - [Factions] [Factions v1.7.0] Reset faction data (invalid faction) for player Beasty6000
+2019-12-24 21:55:39.488 [main] INFO  - [Factions] [Factions v1.7.0] Beasty6000 created a new faction: Toco
+2019-12-24 21:56:56.446 [main] INFO  - [Factions] [Factions v1.7.0] KawaiiKid1128 joined the faction Toco.
+2019-12-24 21:58:30.988 [main] INFO  - §c5 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 21:58:31.987 [main] INFO  - §c4 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 21:58:32.990 [main] INFO  - §c3 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 21:58:33.991 [main] INFO  - §c2 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 21:58:34.987 [main] INFO  - §c1 second left to cleaning items on the ground, animals and mobs!
+2019-12-24 21:58:36.029 [main] INFO  - §cItems on the ground, animals and mobs deleted!
+2019-12-24 21:58:48.495 [main] INFO  - Preparing level "§afactions§f"
+2019-12-24 21:59:35.948 [Nukkit Asynchronous Task Handler #3] INFO  - [§eSRegionProtector§f] §aRemoved 0 empty chunks.
+2019-12-24 21:59:35.955 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §aStarting auto save...
+2019-12-24 21:59:35.981 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §a0 regions was automatically saved
+2019-12-24 21:59:56.139 [main] INFO  - [Factions] [Factions v1.7.0] LemonSqueezy360 joined the faction Toco.
+2019-12-24 22:00:01.493 [main] INFO  - §b[Owner]§fLemonSqueezy360: Taco
+2019-12-24 22:01:13.491 [main] INFO  - §b[Owner]§fLemonSqueezy360: LemonSqueezy360
+2019-12-24 22:01:39.454 [main] INFO  - §e§a§6KawaiiKid1128§e:  left the game
+2019-12-24 22:01:39.461 [main] INFO  - §bKawaiiKid1128§f[/98.178.163.108:41517] logged out due to timeout
+2019-12-24 22:02:13.903 [main] INFO  - [LemonSqueezy360: Teleported LemonSqueezy360 to Beasty6000]
+2019-12-24 22:02:56.044 [main] INFO  - §bKawaiiKid1128§f[/98.178.163.108:49749] logged in with entity id 53 at (cruiser, -891.443, 235.0, -463.6318)
+2019-12-24 22:02:57.113 [main] INFO  - §eKawaiiKid1128 joined the game
+2019-12-24 22:03:11.123 [main] INFO  - Preparing level "§aworld§f"
+2019-12-24 22:03:37.904 [main] INFO  - §c5 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:03:38.903 [main] INFO  - §c4 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:03:39.904 [main] INFO  - §c3 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:03:40.903 [main] INFO  - §c2 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:03:41.904 [main] INFO  - §c1 second left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:03:42.926 [main] INFO  - §cItems on the ground, animals and mobs deleted!
+2019-12-24 22:05:44.840 [Nukkit Asynchronous Task Handler #1] INFO  - [§eSRegionProtector§f] §aRemoved 0 empty chunks.
+2019-12-24 22:05:44.840 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §aStarting auto save...
+2019-12-24 22:05:44.904 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §a1 regions was automatically saved
+2019-12-24 22:06:44.643 [main] INFO  - [LemonSqueezy360: Teleported KawaiiKid1128 to LemonSqueezy360]
+2019-12-24 22:08:39.887 [main] INFO  - §c5 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:08:40.888 [main] INFO  - §c4 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:08:41.890 [main] INFO  - §c3 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:08:42.891 [main] INFO  - §c2 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:08:43.890 [main] INFO  - §c1 second left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:08:45.098 [main] INFO  - §cItems on the ground, animals and mobs deleted!
+2019-12-24 22:11:44.844 [Nukkit Asynchronous Task Handler #1] INFO  - [§eSRegionProtector§f] §aRemoved 40 empty chunks.
+2019-12-24 22:11:44.866 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §aStarting auto save...
+2019-12-24 22:11:45.019 [pool-4-thread-1] INFO  - [§eSRegionProtector§f] §a1 regions was automatically saved
+2019-12-24 22:13:39.964 [main] INFO  - §c5 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:13:40.928 [main] INFO  - §c4 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:13:41.915 [main] INFO  - §c3 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:13:42.896 [main] INFO  - §c2 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:13:43.909 [main] INFO  - §c1 second left to cleaning items on the ground, animals and mobs!
+2019-12-24 22:13:44.979 [main] INFO  - §cItems on the ground, animals and mobs deleted!
+2019-12-24 22:14:10.439 [main] INFO  - [LemonSqueezy360: Stopping the server]
+2019-12-24 22:14:10.503 [main] INFO  - §e§a§6LemonSqueezy360§e:  left the game
+2019-12-24 22:14:10.514 [main] INFO  - §bLemonSqueezy360§f[/192.168.1.254:19133] logged out due to Server closed
+2019-12-24 22:14:10.532 [main] INFO  - §e§a§6Beasty6000§e:  left the game
+2019-12-24 22:14:10.540 [main] INFO  - §bBeasty6000§f[/173.75.62.21:50814] logged out due to Server closed
+2019-12-24 22:14:10.567 [main] INFO  - §e§7[Member] §fKawaiiKid1128 left the game
+2019-12-24 22:14:10.576 [main] INFO  - §bKawaiiKid1128§f[/98.178.163.108:49749] logged out due to Server closed
+2019-12-24 22:14:10.582 [main] INFO  - Disabling MultiChat v1.0.2
+2019-12-24 22:14:10.619 [main] INFO  - Disabling Multipass v${pom.version}
+2019-12-24 22:14:10.626 [main] INFO  - Disabling Holograms v3.1.3
+2019-12-24 22:14:10.681 [main] INFO  - Disabling ChestShop v1.1.1
+2019-12-24 22:14:10.687 [main] INFO  - Disabling SRegionProtector v20.2
+2019-12-24 22:14:10.694 [main] INFO  - [§eSRegionProtector§f] §aStarting saving...
+2019-12-24 22:14:10.702 [main] INFO  - [§eSRegionProtector§f] §aSaved 3 regions
+2019-12-24 22:14:10.729 [main] INFO  - Disabling SeeInv v1.0
+2019-12-24 22:14:10.781 [main] INFO  - Disabling ReportSystem v1.0-SNAPSHOT
+2019-12-24 22:14:10.810 [main] INFO  - [ReportSystem] Disabling ReportSystem...
+2019-12-24 22:14:11.025 [main] INFO  - Disabling QuickSpawns v1.0
+2019-12-24 22:14:11.082 [main] INFO  - [QuickSpawns] Disabling QuickSpawns..
+2019-12-24 22:14:11.096 [main] INFO  - Disabling Pokkit v0.9.1
+2019-12-24 22:14:11.129 [main] INFO  - [Pokkit] [Vault] Disabling Vault v1.7.2-b107
+2019-12-24 22:14:11.135 [main] INFO  - Disabling PlaceholderAPI v1.3.1
+2019-12-24 22:14:11.146 [main] INFO  - Disabling MultiWorld v1.0
+2019-12-24 22:14:11.150 [main] INFO  - Disabling LoveRTP v1
+2019-12-24 22:14:11.160 [main] INFO  - §8[§bLoveRTP§8] §r§cDisabled
+2019-12-24 22:14:11.166 [main] INFO  - Disabling KotlinLib v1.1
+2019-12-24 22:14:11.187 [main] INFO  - Disabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-24 22:14:11.201 [main] INFO  - Disabling FakeInventories v1.0.3
+2019-12-24 22:14:11.218 [main] INFO  - Disabling Factions v1.7.0
+2019-12-24 22:14:11.250 [main] INFO  - [Factions] [Factions v1.7.0] Disabled
+2019-12-24 22:14:11.259 [main] INFO  - Disabling EssentialsNK v1.8.0
+2019-12-24 22:14:11.269 [main] INFO  - Disabling EconomyJob v1.0
+2019-12-24 22:14:11.282 [main] INFO  - Disabling EconomyAPI v2.0.1
+2019-12-24 22:14:11.295 [main] INFO  - Disabling DiscordChat v2.0-beta
+2019-12-24 22:14:11.310 [main] INFO  - Disabling CustomEnchantsNK v1.0.0-beta3
+2019-12-24 22:14:11.318 [main] INFO  - Disabling AutoCleaner v1.0.1
+2019-12-24 22:14:11.335 [main] INFO  - Unloading level "§acruiser§f"
+2019-12-24 22:14:15.675 [main] INFO  - Unloading level "§anether§f"
+2019-12-24 22:14:15.851 [main] INFO  - Unloading level "§afactions§f"
+2019-12-24 22:14:17.902 [main] INFO  - Unloading level "§aworld§f"
+2019-12-24 22:14:20.001 [main] INFO  - Stopping other threads

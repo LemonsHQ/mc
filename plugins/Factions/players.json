@@ -1,0 +1,42 @@
+{
+  "cyruswwpro": {
+    "factionId": "1",
+    "role": "NORMAL",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1577257292354,
+    "lastLoginTime": 1577257292354,
+    "chatMode": "PUBLIC"
+  },
+  "Beasty6000": {
+    "factionId": "1",
+    "role": "ADMIN",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1577289654356,
+    "lastLoginTime": 1577289654356,
+    "chatMode": "PUBLIC"
+  },
+  "KawaiiKid1128": {
+    "factionId": "0",
+    "role": "NORMAL",
+    "title": "",
+    "power": 4.126336666666667,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1577243650551,
+    "lastLoginTime": 1577243650551,
+    "chatMode": "PUBLIC"
+  },
+  "DarkDragon3918": {
+    "factionId": "1",
+    "role": "NORMAL",
+    "title": "",
+    "power": 10.0,
+    "powerBoost": 0.0,
+    "lastPowerUpdateTime": 1577286414804,
+    "lastLoginTime": 1577286414804,
+    "chatMode": "PUBLIC"
+  }
+}

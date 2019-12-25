@@ -1,0 +1,322 @@
+2019-12-23 22:25:26.051 [main] INFO  - Loading §anukkit.yml§f ...
+2019-12-23 22:25:26.257 [main] INFO  - Loading §aserver.properties§f ...
+2019-12-23 22:25:26.277 [main] INFO  - Selected English (eng) as the base language
+2019-12-23 22:25:26.282 [main] INFO  - Starting Minecraft: BE server version §bv1.14.0§r
+2019-12-23 22:25:26.302 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-12-23 22:25:26.441 [main] INFO  - Opening server on 0.0.0.0:19132
+2019-12-23 22:25:26.517 [main] INFO  - This server is running Nukkit version §egit-8088000§f "§b§f" (API 1.0.9)
+2019-12-23 22:25:26.521 [main] INFO  - Nukkit is distributed under the LGPL License
+2019-12-23 22:25:29.124 [main] INFO  - Loading recipes...
+2019-12-23 22:25:29.574 [main] INFO  - Loaded 1320 recipes.
+2019-12-23 22:25:29.581 [main] INFO  - Successfully loaded 0 resource packs
+2019-12-23 22:25:29.642 [main] ERROR - Could not load plugin "DiscordChat": plugin exists
+2019-12-23 22:25:29.697 [main] INFO  - Loading AutoCleaner v1.0.1
+2019-12-23 22:25:29.719 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 22:25:29.727 [main] INFO  - Loading CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:25:29.750 [main] INFO  - Loading DiscordChat v1.1
+2019-12-23 22:25:29.771 [main] INFO  - Loading EconomyAPI v2.0.1
+2019-12-23 22:25:29.822 [main] INFO  - Loading EssentialsNK v1.8.0
+2019-12-23 22:25:29.864 [main] INFO  - Loading Factions v1.7.0
+2019-12-23 22:25:29.907 [main] INFO  - Loading FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:25:29.931 [main] INFO  - Loading MultiWorld v1.0
+2019-12-23 22:25:29.945 [RakNet Thread #14] INFO  - Epoll Status is false
+2019-12-23 22:25:29.957 [main] INFO  - Loading Pokkit v0.9.1
+2019-12-23 22:25:30.142 [main] INFO  - [Pokkit] This server is running Nukkit version v1.14.0 (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+2019-12-23 22:25:30.181 [main] INFO  - [Pokkit] Server permissions file C:\Users\Lemon\OneDrive\Documents\Music\Desktop\nukkit\plugins\Pokkit\permissions.yml is empty, ignoring it
+2019-12-23 22:25:30.295 [main] INFO  - [Pokkit] [Vault] Enabling Vault v1.7.2-b107
+2019-12-23 22:25:30.474 [main] INFO  - [Pokkit] [Vault] [Permission] SuperPermissions loaded as backup permission system.
+2019-12-23 22:25:30.558 [main] INFO  - [Pokkit] [Vault] Enabled Version 1.7.2-b107
+2019-12-23 22:25:30.569 [main] INFO  - Loading ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:25:30.588 [main] FATAL - Could not load plugin "SeeInv": Unknown dependency
+2019-12-23 22:25:30.604 [main] INFO  - Loading ZChat v1.0.21-Beta
+2019-12-23 22:25:30.635 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 22:25:30.639 [main] FATAL - Could not load plugin "SeeInv": Unknown dependency
+2019-12-23 22:25:30.646 [main] FATAL - Could not load plugin "BowHitAlert": Circular dependency detected
+2019-12-23 22:25:30.704 [main] FATAL - Could not load plugin "SeeInv": Circular dependency detected
+2019-12-23 22:25:31.009 [main] INFO  - Preparing level "§aworld§f"
+2019-12-23 22:25:31.303 [main] INFO  - Preparing level "§anether§f"
+2019-12-23 22:25:31.334 [main] INFO  - Enabling AutoCleaner v1.0.1
+2019-12-23 22:25:31.348 [main] INFO  - [AutoCleaner] §2Plugin by Extollite
+2019-12-23 22:25:31.405 [main] INFO  - Enabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:25:31.506 [main] INFO  - Enabling DiscordChat v1.1
+2019-12-23 22:25:35.323 [main] ERROR - [DiscordChat] Couldn't enable Discord chat sync
+2019-12-23 22:25:35.331 [main] INFO  - Enabling EconomyAPI v2.0.1
+2019-12-23 22:25:35.466 [main] WARN  - [EconomyAPI] Data provider was set to: Yaml
+2019-12-23 22:25:35.476 [main] INFO  - Enabling EssentialsNK v1.8.0
+2019-12-23 22:25:35.593 [main] INFO  - [EssentialsNK] EssentialsNK Loaded!
+2019-12-23 22:25:35.599 [main] INFO  - Enabling Factions v1.7.0
+2019-12-23 22:25:35.607 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE START ===
+2019-12-23 22:25:35.721 [main] INFO  - [Factions] [Factions v1.7.0] Loading board from disk
+2019-12-23 22:25:35.805 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE DONE (Took 193ms) ===
+2019-12-23 22:25:35.809 [main] INFO  - Enabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:25:37.814 [main] INFO  - Enabling MultiWorld v1.0
+2019-12-23 22:25:37.818 [main] INFO  - [Pokkit] [Kitpvp] Enabling Kitpvp v2.0
+2019-12-23 22:25:37.855 [main] ERROR - [Pokkit] [Kitpvp] - Disabled due to no Vault dependency found!
+2019-12-23 22:25:37.861 [main] INFO  - [Pokkit] [Kitpvp] Disabling Kitpvp v2.0
+2019-12-23 22:25:37.873 [main] INFO  - Enabling Pokkit v0.9.1
+2019-12-23 22:25:37.879 [main] INFO  - [Pokkit] [Kitpvp] Enabling Kitpvp v2.0
+2019-12-23 22:25:37.884 [main] WARN  - [Pokkit] Enabled plugin with unregistered PluginClassLoader Kitpvp v2.0
+2019-12-23 22:25:37.890 [main] ERROR - [Pokkit] [Kitpvp] - Disabled due to no Vault dependency found!
+2019-12-23 22:25:37.895 [main] INFO  - [Pokkit] [Kitpvp] Disabling Kitpvp v2.0
+2019-12-23 22:25:37.932 [main] INFO  - Enabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:25:37.936 [main] INFO  - [ReportSystem] Starting ReportSystem...
+2019-12-23 22:25:37.940 [main] INFO  - [ReportSystem] Loading all components...
+2019-12-23 22:25:37.974 [main] INFO  - [ReportSystem] Using config...
+2019-12-23 22:25:37.978 [main] INFO  - [ReportSystem] §aPlugin successfully started.
+2019-12-23 22:25:37.982 [main] INFO  - Enabling ZChat v1.0.21-Beta
+2019-12-23 22:25:37.987 [main] INFO  - 
+
+§1===============================================
+	§b _____§3      ________          __ 
+	§b/__  /§3     / ____/ /_  ____ _/ /_
+	§b  / / §3    / /   / __ \/ __ `/ __/
+	§b / /__§3   / /___/ / / / /_/ / /_  
+	§b/____/§3   \____/_/ /_/\__,_/\__/  
+	§b      §3                           
+§l===============================================
+
+2019-12-23 22:25:37.998 [main] INFO  - §f[ §5§bZ§3Chat §f] §rLoading data...
+2019-12-23 22:25:38.077 [main] WARN  - §f[ §5§bZ§3Chat §f] §r§cFactions plugin found!
+2019-12-23 22:25:38.080 [main] WARN  - §f[ §5§bZ§3Chat §f] §r§cEconomyAPI found!
+2019-12-23 22:25:38.084 [main] WARN  - §f[ §5§bZ§3Chat §f] §r§4No permission supported manager found!
+2019-12-23 22:25:38.088 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§bSwitching to standalone mode
+2019-12-23 22:25:38.098 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§bStarting listeners..
+2019-12-23 22:25:38.132 [main] INFO  - §f[ §5§bZ§3Chat §f] §r§bReady to go~
+2019-12-23 22:25:38.137 [main] ERROR - §f[ §5§bZ§3Chat §f] §r§cPlaceholderAPI not found! This may impact performance
+2019-12-23 22:25:38.304 [main] INFO  - Starting GS4 status listener
+2019-12-23 22:25:38.308 [main] INFO  - Setting query port to 19132
+2019-12-23 22:25:38.315 [main] INFO  - Query is running on 0.0.0.0:19132
+2019-12-23 22:25:38.320 [main] INFO  - Default game type: Survival Mode
+2019-12-23 22:25:38.325 [main] INFO  - Done (12.48s)! For help, type "help" or "?"
+2019-12-23 22:25:38.443 [Nukkit Asynchronous Task Handler #0] INFO  - [Pokkit] [Vault] Checking for Updates ... 
+2019-12-23 22:25:39.128 [Nukkit Asynchronous Task Handler #0] INFO  - [Pokkit] [Vault] No new version available
+2019-12-23 22:25:45.982 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged in with entity id 1 at (world, 10168.0313, 109.0001, 100100.1172)
+2019-12-23 22:26:53.321 [Watchdog] FATAL - --------- Server stopped responding --------- (67s)
+2019-12-23 22:28:42.013 [Watchdog] FATAL - Please report this to Nukkit:
+2019-12-23 22:28:42.016 [main] INFO  - §cBeasty6000 left the game.
+2019-12-23 22:28:42.027 [Watchdog] FATAL -  - https://github.com/NukkitX/Nukkit/issues/new
+2019-12-23 22:28:42.038 [Watchdog] FATAL - ---------------- Main thread ----------------
+2019-12-23 22:28:42.055 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged out due to client disconnect
+2019-12-23 22:28:42.066 [Watchdog] FATAL - Current Thread: main
+2019-12-23 22:28:42.074 [Watchdog] FATAL - 	PID: 1 | Suspended: false | Native: false | State: RUNNABLE
+2019-12-23 22:28:42.098 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:42.121 [Watchdog] FATAL - 		com.sun.jna.Native.invokeVoid(Native Method)
+2019-12-23 22:28:42.129 [Watchdog] FATAL - 		com.sun.jna.Function.invoke(Function.java:374)
+2019-12-23 22:28:42.146 [Watchdog] FATAL - 		com.sun.jna.Function.invoke(Function.java:323)
+2019-12-23 22:28:42.150 [Watchdog] FATAL - 		com.sun.jna.Library$Handler.invoke(Library.java:236)
+2019-12-23 22:28:42.214 [Watchdog] FATAL - 		org.jline.terminal.impl.jna.win.$Proxy16.WriteConsoleW(Unknown Source)
+2019-12-23 22:28:42.252 [Watchdog] FATAL - 		org.jline.terminal.impl.jna.win.JnaWinConsoleWriter.writeConsole(JnaWinConsoleWriter.java:30)
+2019-12-23 22:28:42.284 [Watchdog] FATAL - 		org.jline.terminal.impl.AbstractWindowsConsoleWriter.write(AbstractWindowsConsoleWriter.java:27)
+2019-12-23 22:28:42.334 [Watchdog] FATAL - 		java.io.Writer.write(Unknown Source)
+2019-12-23 22:28:42.357 [Watchdog] FATAL - 		java.io.PrintWriter.write(Unknown Source)
+2019-12-23 22:28:42.383 [Watchdog] FATAL - 		java.io.PrintWriter.append(Unknown Source)
+2019-12-23 22:28:42.389 [Watchdog] FATAL - 		java.io.PrintWriter.append(Unknown Source)
+2019-12-23 22:28:42.391 [main] INFO  - §cBeasty6000 left the game.
+2019-12-23 22:28:42.395 [Watchdog] FATAL - 		org.jline.utils.Curses.doTputs(Curses.java:133)
+2019-12-23 22:28:42.400 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged out due to client disconnect
+2019-12-23 22:28:42.406 [Watchdog] FATAL - 		org.jline.utils.Curses.tputs(Curses.java:60)
+2019-12-23 22:28:42.417 [Watchdog] FATAL - 		org.jline.terminal.impl.AbstractTerminal.puts(AbstractTerminal.java:167)
+2019-12-23 22:28:42.450 [Watchdog] FATAL - 		org.jline.utils.Display.moveVisualCursorTo(Display.java:466)
+2019-12-23 22:28:42.467 [Watchdog] FATAL - 		org.jline.utils.Display.update(Display.java:287)
+2019-12-23 22:28:42.487 [Watchdog] FATAL - 		org.jline.utils.Display.update(Display.java:99)
+2019-12-23 22:28:42.508 [Watchdog] FATAL - 		org.jline.reader.impl.LineReaderImpl.printAbove(LineReaderImpl.java:648)
+2019-12-23 22:28:42.545 [Watchdog] FATAL - 		net.minecrell.terminalconsole.TerminalConsoleAppender.print(TerminalConsoleAppender.java:263)
+2019-12-23 22:28:42.554 [Watchdog] FATAL - 		net.minecrell.terminalconsole.TerminalConsoleAppender.append(TerminalConsoleAppender.java:256)
+2019-12-23 22:28:42.572 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.AppenderControl.tryCallAppender(AppenderControl.java:156)
+2019-12-23 22:28:42.598 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.AppenderControl.callAppender0(AppenderControl.java:129)
+2019-12-23 22:28:42.616 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.AppenderControl.callAppenderPreventRecursion(AppenderControl.java:120)
+2019-12-23 22:28:42.634 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:84)
+2019-12-23 22:28:42.638 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:464)
+2019-12-23 22:28:42.653 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.LoggerConfig.processLogEvent(LoggerConfig.java:448)
+2019-12-23 22:28:42.663 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:431)
+2019-12-23 22:28:42.677 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+2019-12-23 22:28:42.687 [Watchdog] FATAL - 		org.apache.logging.log4j.core.config.AwaitCompletionReliabilityStrategy.log(AwaitCompletionReliabilityStrategy.java:63)
+2019-12-23 22:28:42.696 [Watchdog] FATAL - 		org.apache.logging.log4j.core.Logger.logMessage(Logger.java:146)
+2019-12-23 22:28:42.699 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.tryLogMessage(AbstractLogger.java:2170)
+2019-12-23 22:28:42.707 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.logMessageTrackRecursion(AbstractLogger.java:2125)
+2019-12-23 22:28:42.711 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.logMessageSafely(AbstractLogger.java:2108)
+2019-12-23 22:28:42.717 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.logMessage(AbstractLogger.java:2002)
+2019-12-23 22:28:42.722 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.logIfEnabled(AbstractLogger.java:1974)
+2019-12-23 22:28:42.730 [Watchdog] FATAL - 		org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1311)
+2019-12-23 22:28:42.737 [Watchdog] FATAL - 		cn.nukkit.utils.MainLogger.info(MainLogger.java:56)
+2019-12-23 22:28:42.740 [Watchdog] FATAL - 		cn.nukkit.Player.close(Player.java:3630)
+2019-12-23 22:28:42.747 [Watchdog] FATAL - 		cn.nukkit.Player.close(Player.java:3568)
+2019-12-23 22:28:42.755 [Watchdog] FATAL - 		cn.nukkit.network.RakNetInterface.closeSession(RakNetInterface.java:84)
+2019-12-23 22:28:42.766 [Watchdog] FATAL - 		cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:164)
+2019-12-23 22:28:42.775 [Watchdog] FATAL - 		cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:68)
+2019-12-23 22:28:42.782 [Watchdog] FATAL - 		cn.nukkit.network.Network.processInterfaces(Network.java:83)
+2019-12-23 22:28:42.789 [Watchdog] FATAL - 		cn.nukkit.Server.tick(Server.java:1124)
+2019-12-23 22:28:42.798 [Watchdog] FATAL - 		cn.nukkit.Server.tickProcessor(Server.java:903)
+2019-12-23 22:28:42.804 [Watchdog] FATAL - 		cn.nukkit.Server.start(Server.java:880)
+2019-12-23 22:28:42.807 [Watchdog] FATAL - 		cn.nukkit.Server.<init>(Server.java:565)
+2019-12-23 22:28:42.812 [Watchdog] FATAL - 		cn.nukkit.Nukkit.main(Nukkit.java:112)
+2019-12-23 22:28:42.816 [Watchdog] FATAL - ---------------- All threads ----------------
+2019-12-23 22:28:42.872 [Watchdog] FATAL - Current Thread: pool-5-thread-2
+2019-12-23 22:28:42.876 [Watchdog] FATAL - 	PID: 40 | Suspended: false | Native: false | State: TIMED_WAITING
+2019-12-23 22:28:42.879 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:42.882 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:42.886 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.parkNanos(Unknown Source)
+2019-12-23 22:28:42.890 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:42.896 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:42.899 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.poll(Unknown Source)
+2019-12-23 22:28:42.904 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:42.909 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:42.913 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:42.918 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:42.921 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:42.925 [Watchdog] FATAL - Current Thread: Nukkit Asynchronous Task Handler #4
+2019-12-23 22:28:42.930 [Watchdog] FATAL - 	PID: 38 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:42.933 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:42.936 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:42.941 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+2019-12-23 22:28:42.946 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:42.951 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:42.953 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.take(Unknown Source)
+2019-12-23 22:28:42.956 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:42.963 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:42.966 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:42.969 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:42.973 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:42.977 [Watchdog] FATAL - Current Thread: Nukkit Asynchronous Task Handler #3
+2019-12-23 22:28:42.983 [Watchdog] FATAL - 	PID: 37 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:42.987 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:42.995 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:42.999 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+2019-12-23 22:28:43.004 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:43.008 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:43.017 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.take(Unknown Source)
+2019-12-23 22:28:43.021 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:43.029 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:43.034 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:43.040 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.087 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.091 [Watchdog] FATAL - Current Thread: Nukkit Asynchronous Task Handler #2
+2019-12-23 22:28:43.101 [Watchdog] FATAL - 	PID: 36 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:43.117 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.135 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:43.144 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+2019-12-23 22:28:43.155 [main] INFO  - [CONSOLE: Stopping the server]
+2019-12-23 22:28:43.174 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:43.193 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:43.196 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.take(Unknown Source)
+2019-12-23 22:28:43.205 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:43.213 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:43.218 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:43.227 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.229 [main] INFO  - §cBeasty6000 left the game.
+2019-12-23 22:28:43.235 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.239 [main] INFO  - §bBeasty6000§f[/173.75.62.21:65123] logged out due to Server closed
+2019-12-23 22:28:43.246 [Watchdog] FATAL - Current Thread: Nukkit Asynchronous Task Handler #1
+2019-12-23 22:28:43.251 [Watchdog] FATAL - 	PID: 35 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:43.249 [main] INFO  - Disabling ZChat v1.0.21-Beta
+2019-12-23 22:28:43.256 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.262 [main] INFO  - §f[ §5§bZ§3Chat §f] §rThank you for using ZChat. Please consider rating if you're enjoying it.
+2019-12-23 22:28:43.267 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:43.272 [main] INFO  - Disabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 22:28:43.276 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+2019-12-23 22:28:43.284 [main] INFO  - [ReportSystem] Disabling ReportSystem...
+2019-12-23 22:28:43.285 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:43.290 [main] INFO  - Disabling Pokkit v0.9.1
+2019-12-23 22:28:43.295 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:43.303 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.take(Unknown Source)
+2019-12-23 22:28:43.307 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:43.321 [main] INFO  - [Pokkit] [Vault] Disabling Vault v1.7.2-b107
+2019-12-23 22:28:43.321 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:43.327 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:43.329 [main] INFO  - Disabling MultiWorld v1.0
+2019-12-23 22:28:43.335 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.340 [main] INFO  - Disabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 22:28:43.343 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.350 [Watchdog] FATAL - Current Thread: Nukkit Asynchronous Task Handler #0
+2019-12-23 22:28:43.350 [main] INFO  - Disabling Factions v1.7.0
+2019-12-23 22:28:43.355 [Watchdog] FATAL - 	PID: 31 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:43.367 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.378 [Watchdog] FATAL - 		sun.misc.Unsafe.park(Native Method)
+2019-12-23 22:28:43.382 [Watchdog] FATAL - 		java.util.concurrent.locks.LockSupport.park(Unknown Source)
+2019-12-23 22:28:43.388 [main] INFO  - [Factions] [Factions v1.7.0] Disabled
+2019-12-23 22:28:43.389 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+2019-12-23 22:28:43.395 [main] INFO  - Disabling EssentialsNK v1.8.0
+2019-12-23 22:28:43.395 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+2019-12-23 22:28:43.403 [main] INFO  - Disabling EconomyAPI v2.0.1
+2019-12-23 22:28:43.404 [Watchdog] FATAL - 		java.util.concurrent.SynchronousQueue.take(Unknown Source)
+2019-12-23 22:28:43.409 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+2019-12-23 22:28:43.413 [main] INFO  - Disabling DiscordChat v1.1
+2019-12-23 22:28:43.415 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:43.419 [main] INFO  - Disabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 22:28:43.424 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:43.427 [main] INFO  - Disabling AutoCleaner v1.0.1
+2019-12-23 22:28:43.430 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.434 [main] INFO  - Unloading level "§aworld§f"
+2019-12-23 22:28:43.436 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.446 [Watchdog] FATAL - Current Thread: Watchdog
+2019-12-23 22:28:43.450 [Watchdog] FATAL - 	PID: 30 | Suspended: false | Native: false | State: RUNNABLE
+2019-12-23 22:28:43.453 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.464 [Watchdog] FATAL - 		sun.management.ThreadImpl.dumpThreads0(Native Method)
+2019-12-23 22:28:43.471 [Watchdog] FATAL - 		sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+2019-12-23 22:28:43.478 [Watchdog] FATAL - 		cn.nukkit.utils.Watchdog.run(Watchdog.java:49)
+2019-12-23 22:28:43.485 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.496 [Watchdog] FATAL - Current Thread: Timer-1
+2019-12-23 22:28:43.505 [Watchdog] FATAL - 	PID: 28 | Suspended: false | Native: false | State: WAITING
+2019-12-23 22:28:43.515 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.529 [Watchdog] FATAL - 		java.lang.Object.wait(Native Method)
+2019-12-23 22:28:43.539 [Watchdog] FATAL - 		java.lang.Object.wait(Unknown Source)
+2019-12-23 22:28:43.550 [Watchdog] FATAL - 		java.util.TimerThread.mainLoop(Unknown Source)
+2019-12-23 22:28:43.556 [Watchdog] FATAL - 		java.util.TimerThread.run(Unknown Source)
+2019-12-23 22:28:43.566 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.571 [Watchdog] FATAL - Current Thread: OkHttp ConnectionPool
+2019-12-23 22:28:43.577 [Watchdog] FATAL - 	PID: 23 | Suspended: false | Native: false | State: TIMED_WAITING
+2019-12-23 22:28:43.585 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.588 [Watchdog] FATAL - 		java.lang.Object.wait(Native Method)
+2019-12-23 22:28:43.591 [Watchdog] FATAL - 		java.lang.Object.wait(Unknown Source)
+2019-12-23 22:28:43.599 [Watchdog] FATAL - 		okhttp3.ConnectionPool.lambda$new$0(ConnectionPool.java:66)
+2019-12-23 22:28:43.603 [Watchdog] FATAL - 		okhttp3.ConnectionPool$$Lambda$215/12881669.run(Unknown Source)
+2019-12-23 22:28:43.610 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+2019-12-23 22:28:43.617 [Watchdog] FATAL - 		java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+2019-12-23 22:28:43.621 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.630 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.634 [Watchdog] FATAL - Current Thread: threadDeathWatcher-3-1
+2019-12-23 22:28:43.640 [Watchdog] FATAL - 	PID: 22 | Suspended: false | Native: false | State: TIMED_WAITING
+2019-12-23 22:28:43.647 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.655 [Watchdog] FATAL - 		java.lang.Thread.sleep(Native Method)
+2019-12-23 22:28:43.662 [Watchdog] FATAL - 		io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:150)
+2019-12-23 22:28:43.667 [Watchdog] FATAL - 		io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+2019-12-23 22:28:43.674 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.678 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.687 [Watchdog] FATAL - Current Thread: nioEventLoopGroup-2-1
+2019-12-23 22:28:43.695 [Watchdog] FATAL - 	PID: 18 | Suspended: false | Native: true | State: RUNNABLE
+2019-12-23 22:28:43.703 [Watchdog] FATAL - 	Thread is waiting on monitor(s):
+2019-12-23 22:28:43.707 [Watchdog] FATAL - 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+2019-12-23 22:28:43.714 [Watchdog] FATAL - 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+2019-12-23 22:28:43.719 [Watchdog] FATAL - 		Locked on:sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+2019-12-23 22:28:43.726 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.739 [Watchdog] FATAL - 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+2019-12-23 22:28:43.746 [Watchdog] FATAL - 		sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+2019-12-23 22:28:43.751 [Watchdog] FATAL - 		sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+2019-12-23 22:28:43.768 [main] INFO  - Unloading level "§anether§f"
+2019-12-23 22:28:43.807 [Watchdog] FATAL - 		sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+2019-12-23 22:28:43.822 [Watchdog] FATAL - 		sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+2019-12-23 22:28:43.830 [Watchdog] FATAL - 		sun.nio.ch.SelectorImpl.select(Unknown Source)
+2019-12-23 22:28:43.837 [Watchdog] FATAL - 		io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:759)
+2019-12-23 22:28:43.840 [Watchdog] FATAL - 		io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:400)
+2019-12-23 22:28:43.846 [Watchdog] FATAL - 		io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:873)
+2019-12-23 22:28:43.848 [Watchdog] FATAL - 		io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+2019-12-23 22:28:43.850 [Watchdog] FATAL - 		java.lang.Thread.run(Unknown Source)
+2019-12-23 22:28:43.856 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.857 [Watchdog] FATAL - Current Thread: Timer-0
+2019-12-23 22:28:43.860 [Watchdog] FATAL - 	PID: 16 | Suspended: false | Native: false | State: TIMED_WAITING
+2019-12-23 22:28:43.866 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.868 [Watchdog] FATAL - 		java.lang.Object.wait(Native Method)
+2019-12-23 22:28:43.872 [Watchdog] FATAL - 		java.util.TimerThread.mainLoop(Unknown Source)
+2019-12-23 22:28:43.879 [Watchdog] FATAL - 		java.util.TimerThread.run(Unknown Source)
+2019-12-23 22:28:43.890 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.899 [Watchdog] FATAL - Current Thread: RakNet Thread #14
+2019-12-23 22:28:43.907 [Watchdog] FATAL - 	PID: 14 | Suspended: false | Native: false | State: TIMED_WAITING
+2019-12-23 22:28:43.915 [Watchdog] FATAL - 	Stack:
+2019-12-23 22:28:43.935 [Watchdog] FATAL - 		java.lang.Thread.sleep(Native Method)
+2019-12-23 22:28:43.947 [Watchdog] FATAL - 		cn.nukkit.raknet.server.SessionManager.tickProcessor(SessionManager.java:96)
+2019-12-23 22:28:43.949 [main] INFO  - Stopping other threads
+2019-12-23 22:28:43.951 [Watchdog] FATAL - 		cn.nukkit.raknet.server.SessionManager.run(SessionManager.java:70)
+2019-12-23 22:28:43.955 [Watchdog] FATAL - 		cn.nukkit.raknet.server.SessionManager.<init>(SessionManager.java:58)
+2019-12-23 22:28:43.960 [Watchdog] FATAL - 		cn.nukkit.raknet.server.RakNetServer.run(RakNetServer.java:101)
+2019-12-23 22:28:43.968 [Watchdog] FATAL - ------------------------------
+2019-12-23 22:28:43.970 [Watchdog] FATAL - Current Thread: Thread-1

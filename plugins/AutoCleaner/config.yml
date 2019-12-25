@@ -1,0 +1,4 @@
+repeatTime: 300
+warnBefore: 5
+deleteMobs: true
+deleteAnimals: true

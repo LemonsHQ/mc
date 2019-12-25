@@ -1,0 +1,88 @@
+# ---------Discord-Main-Config--------
+
+
+# nether Edit This Config Versions
+configVersion: 2
+
+
+# Discord bot Token here The code you get from https://discordapp.com/developers/applications/
+botToken: "NTg4NTAxMzQ1ODcxNDYyNDEz.XgJMEg.fuLt7JXiPBzuWpqic7E_WnP0m9A"
+
+# The channel you want to use for the chat enter ID here
+channelId: "659086569021374486"
+
+# debug
+debug: false
+
+# -----------------Basic Discord bot config--------------------
+
+
+# Do you want you bot to have a Custom playing message
+enableBotStatus: false
+# Playing _________
+botStatus: "Listening..."
+
+# set text channel topic, leave empty to disable
+channelTopic: ""
+
+# enable !playerlist command on Discord
+playerListCommand: true
+# enable !ip command on Discord
+ipCommand: true
+# server address to show in !ip command
+serverIp: "108.67.214.103"
+# server port to show in !ip command
+serverPort: "19132"
+
+
+# enable join messages to Discord
+joinMessages: true
+# enable quit messages to Discord
+quitMessages: true
+# enable death messages to Discord
+deathMessages: true
+# enable server start messages to Discord
+startMessages: true
+# enable server stop messages to Discord
+stopMessages: true
+
+
+# enable Discord messages to Minecraft
+enableDiscordToMinecraft: false
+# enable Minecraft messages to Discord
+enableMinecraftToDiscord: true
+# show Discord messages also in console
+enableMessagesToConsole: false
+
+
+# enable Discord console
+discordConsole: false
+# Discord server console channel id
+consoleChannelId: "NOT AVAILABLE YET"
+
+
+# formatting of Discord messages shown in game
+discordToMinecraftChatFormatting: "NOT AVAILABLE YET"
+# formatting of game messages shown in Discord
+minecraftToDiscordChatFormatting: "NOT AVAILABLE YET"
+
+
+# Discord messages over that length will be cut
+maxMessageLength: 255
+# allow massages sent by a bot to show in game
+allowBotMessages: false
+# enable spam filter (beta)
+spamFilter: false
+
+
+# translations
+status_server_started: "**:green_square: Server started!**"
+status_server_stopped: "**:red_square: Server stopped!**"
+info_player_joined: "**:heavy_plus_sign: %player% joined the server**"
+info_player_left: "**:heavy_minus_sign: %player% left the server**"
+info_player_death: "**:skull: %death_message%**"
+command_playerlist_empty: "**No online players**"
+command_playerlist_players: "Online players"
+commands_ip_address: "Address:"
+commands_ip_port: "Port:"
+discord_prefix: "§f[§bDiscord§f]"

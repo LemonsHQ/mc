@@ -1,0 +1,7 @@
+version: 2
+lines_gaps: 0.3
+async_batch: false
+save_interval: 5
+grid:
+  col_separator: ;
+  excluder: ^^

@@ -1,0 +1,8 @@
+2019-12-23 22:16:50.912 [main] INFO  - Loading §anukkit.yml§f ...
+2019-12-23 22:16:51.216 [main] INFO  - Loading §aserver.properties§f ...
+2019-12-23 22:16:51.250 [main] INFO  - Selected English (eng) as the base language
+2019-12-23 22:16:51.253 [main] INFO  - Starting Minecraft: BE server version §bv1.14.0§r
+2019-12-23 22:16:51.281 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-12-23 22:16:51.416 [main] INFO  - Opening server on 0.0.0.0:19132
+2019-12-23 22:16:51.512 [main] INFO  - This server is running Nukkit version §egit-8088000§f "§b§f" (API 1.0.9)
+2019-12-23 22:16:51.515 [main] INFO  - Nukkit is distributed under the LGPL License

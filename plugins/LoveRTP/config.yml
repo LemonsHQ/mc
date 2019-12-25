@@ -1,0 +1,26 @@
+#Plugin Made By - Love xKGx
+
+#RTP Permission: Zero.can.RTP
+
+#------------RTP------------#
+
+#Negative And Positive X
+x: 500000
+#Negative And Positive Z
+z: 500000
+
+#---------------------------#
+
+#UnderWaterCheck (Gives Sender Water Breathing If Under Water After RTP) (1 = Enabled) (0 = Disabled)
+Watercheck: 1
+#Water Breathing Duration In Seconds If Enabled
+Duration: 30
+
+#---------------------------#
+
+#RTP Title Message
+Title: §lTeleported Somewhere
+Subtitle: §lRandom
+
+#---------------------------#
+

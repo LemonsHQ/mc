@@ -1,0 +1,429 @@
+2019-12-23 23:41:54.056 [main] INFO  - Loading §anukkit.yml§f ...
+2019-12-23 23:41:55.223 [main] INFO  - Loading §aserver.properties§f ...
+2019-12-23 23:41:57.485 [main] INFO  - Selected English (eng) as the base language
+2019-12-23 23:41:57.697 [main] INFO  - Starting Minecraft: BE server version §bv1.14.0§r
+2019-12-23 23:41:57.745 [main] INFO  - Selected Zlib Provider: 2 (cn.nukkit.utils.ZlibThreadLocal)
+2019-12-23 23:41:58.289 [main] INFO  - Opening server on 0.0.0.0:19132
+2019-12-23 23:41:58.605 [main] INFO  - This server is running Nukkit version §egit-8088000§f "§b§f" (API 1.0.9)
+2019-12-23 23:41:58.655 [main] INFO  - Nukkit is distributed under the LGPL License
+2019-12-23 23:42:03.221 [main] INFO  - Loading recipes...
+2019-12-23 23:42:04.791 [main] INFO  - Loaded 1320 recipes.
+2019-12-23 23:42:04.806 [main] INFO  - Successfully loaded 0 resource packs
+2019-12-23 23:42:04.947 [main] ERROR - Could not load plugin "DiscordChat": plugin exists
+2019-12-23 23:42:05.097 [main] INFO  - Loading AutoCleaner v1.0.1
+2019-12-23 23:42:05.128 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 23:42:05.141 [main] INFO  - Loading CustomEnchantsNK v1.0.0-beta3
+2019-12-23 23:42:05.170 [main] INFO  - Loading DiscordChat v1.1
+2019-12-23 23:42:05.201 [main] INFO  - Loading EconomyAPI v2.0.1
+2019-12-23 23:42:05.570 [main] INFO  - Loading EssentialsNK v1.8.0
+2019-12-23 23:42:05.765 [RakNet Thread #14] INFO  - Epoll Status is false
+2019-12-23 23:42:05.888 [main] INFO  - Loading Factions v1.7.0
+2019-12-23 23:42:06.044 [main] INFO  - Loading FakeInventories v1.0.3
+2019-12-23 23:42:06.167 [main] INFO  - Loading FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 23:42:06.237 [main] INFO  - Loading FFA v1.2
+2019-12-23 23:42:06.276 [main] INFO  - Loading MultiWorld v1.0
+2019-12-23 23:42:06.349 [main] INFO  - Loading Pokkit v0.9.1
+2019-12-23 23:42:06.856 [main] INFO  - [Pokkit] This server is running Nukkit version v1.14.0 (Implementing API version 1.13.2-R0.1-SNAPSHOT)
+2019-12-23 23:42:06.957 [main] INFO  - [Pokkit] Server permissions file C:\Users\Lemon\OneDrive\Documents\Music\Desktop\nukkit\plugins\Pokkit\permissions.yml is empty, ignoring it
+2019-12-23 23:42:09.942 [main] INFO  - [Pokkit] [Vault] Enabling Vault v1.7.2-b107
+2019-12-23 23:42:10.209 [main] INFO  - [Pokkit] [Vault] [Permission] SuperPermissions loaded as backup permission system.
+2019-12-23 23:42:10.853 [main] INFO  - [Pokkit] [Vault] Enabled Version 1.7.2-b107
+2019-12-23 23:42:10.874 [main] INFO  - Loading ReportSystem v1.0-SNAPSHOT
+2019-12-23 23:42:10.902 [main] INFO  - Loading SeeInv v1.0
+2019-12-23 23:42:10.933 [main] INFO  - Loading AdvancedKits v2.3
+2019-12-23 23:42:10.942 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 23:42:10.951 [main] FATAL - Could not load plugin "BowHitAlert": Unknown dependency
+2019-12-23 23:42:10.957 [main] FATAL - Could not load plugin "BowHitAlert": Circular dependency detected
+2019-12-23 23:42:11.110 [main] INFO  - Preparing level "§aworld§f"
+2019-12-23 23:42:11.228 [main] INFO  - Preparing level "§anether§f"
+2019-12-23 23:42:11.240 [main] INFO  - Enabling AutoCleaner v1.0.1
+2019-12-23 23:42:11.245 [main] INFO  - [AutoCleaner] §2Plugin by Extollite
+2019-12-23 23:42:11.263 [main] INFO  - Enabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 23:42:11.337 [main] INFO  - Enabling DiscordChat v1.1
+2019-12-23 23:42:17.576 [main] ERROR - [DiscordChat] Couldn't enable Discord chat sync
+2019-12-23 23:42:17.582 [main] INFO  - Enabling EconomyAPI v2.0.1
+2019-12-23 23:42:17.671 [main] WARN  - [EconomyAPI] Data provider was set to: Yaml
+2019-12-23 23:42:17.679 [main] INFO  - Enabling EssentialsNK v1.8.0
+2019-12-23 23:42:17.809 [main] INFO  - [EssentialsNK] EssentialsNK Loaded!
+2019-12-23 23:42:17.815 [main] INFO  - Enabling Factions v1.7.0
+2019-12-23 23:42:17.818 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE START ===
+2019-12-23 23:42:17.940 [main] INFO  - [Factions] [Factions v1.7.0] Loading board from disk
+2019-12-23 23:42:18.019 [main] INFO  - [Factions] [Factions v1.7.0] === ENABLE DONE (Took 193ms) ===
+2019-12-23 23:42:18.024 [main] INFO  - Enabling FakeInventories v1.0.3
+2019-12-23 23:42:18.053 [main] INFO  - Enabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 23:42:20.751 [main] INFO  - Enabling FFA v1.2
+2019-12-23 23:42:20.768 [main] INFO  - [FFA] enable game
+2019-12-23 23:42:20.776 [main] INFO  - [FFA] Las arenas no ha sido configurada 
+2019-12-23 23:42:20.784 [main] INFO  - Enabling MultiWorld v1.0
+2019-12-23 23:42:20.787 [main] INFO  - [Pokkit] [KitBattle] Enabling KitBattle v2.5
+2019-12-23 23:42:20.793 [main] INFO  - [Pokkit] [KitBattle] KitBattle Has Been Enabled!
+2019-12-23 23:42:20.842 [main] ERROR - [Pokkit] Error occurred while enabling KitBattle v2.5 (Is it up to date?)
+java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+	at me.wazup.kitbattle.main.reloadMessagesConfig(main.java:1704) ~[?:?]
+	at me.wazup.kitbattle.main.setupMessages(main.java:1950) ~[?:?]
+	at me.wazup.kitbattle.main.onEnable(main.java:90) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[Pokkit-0.9.1.jar:0.9.1]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:347) [Pokkit-0.9.1.jar:0.9.1]
+	at nl.rutgerkok.pokkit.plugin.PokkitPluginLoader.enablePlugin(PokkitPluginLoader.java:69) [Pokkit-0.9.1.jar:0.9.1]
+	at cn.nukkit.plugin.PluginManager.enablePlugin(PluginManager.java:439) [nukkit-357.jar:?]
+	at cn.nukkit.Server.enablePlugin(Server.java:733) [nukkit-357.jar:?]
+	at cn.nukkit.Server.enablePlugins(Server.java:722) [nukkit-357.jar:?]
+	at cn.nukkit.Server.<init>(Server.java:558) [nukkit-357.jar:?]
+	at cn.nukkit.Nukkit.main(Nukkit.java:112) [nukkit-357.jar:?]
+2019-12-23 23:42:20.859 [main] INFO  - [Pokkit] [PureKits] Enabling PureKits v1.1
+2019-12-23 23:42:20.866 [main] INFO  - [Pokkit] [PureKits] Enabled PureKits
+2019-12-23 23:42:20.925 [main] INFO  - Enabling Pokkit v0.9.1
+2019-12-23 23:42:20.963 [main] INFO  - Enabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 23:42:20.968 [main] INFO  - [ReportSystem] Starting ReportSystem...
+2019-12-23 23:42:20.975 [main] INFO  - [ReportSystem] Loading all components...
+2019-12-23 23:42:21.006 [main] INFO  - [ReportSystem] Using config...
+2019-12-23 23:42:21.010 [main] INFO  - [ReportSystem] §aPlugin successfully started.
+2019-12-23 23:42:21.015 [main] INFO  - Enabling SeeInv v1.0
+2019-12-23 23:42:21.023 [main] INFO  - Enabling AdvancedKits v2.3
+2019-12-23 23:42:21.175 [main] INFO  - Starting GS4 status listener
+2019-12-23 23:42:21.180 [main] INFO  - Setting query port to 19132
+2019-12-23 23:42:21.184 [main] INFO  - Query is running on 0.0.0.0:19132
+2019-12-23 23:42:21.190 [main] INFO  - Default game type: Survival Mode
+2019-12-23 23:42:21.194 [main] INFO  - Done (28.183s)! For help, type "help" or "?"
+2019-12-23 23:42:24.974 [Nukkit Asynchronous Task Handler #1] INFO  - [Pokkit] [Vault] Checking for Updates ... 
+2019-12-23 23:42:25.639 [Nukkit Asynchronous Task Handler #1] INFO  - [Pokkit] [Vault] No new version available
+2019-12-23 23:42:54.038 [main] INFO  - §bLemonSqueezy360§f[/192.168.1.254:19132] logged in with entity id 1 at (world, 10122.8623, 103.0, 100109.2266)
+2019-12-23 23:42:55.672 [main] INFO  - §eLemonSqueezy360 joined the game
+2019-12-23 23:43:39.504 [main] INFO  - §bBeasty6000§f[/173.75.62.21:64234] logged in with entity id 3 at (world, 10127.1953, 103.0639, 100107.9141)
+2019-12-23 23:43:40.328 [main] INFO  - §eBeasty6000 joined the game
+2019-12-23 23:45:08.757 [main] FATAL - Unhandled exception executing command "createkit banana" in createkit: java.lang.ArrayIndexOutOfBoundsException: 36
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.lambda$getContents$0(PokkitLiveInventory.java:219)
+	at java.util.HashMap.forEach(Unknown Source)
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.getContents(PokkitLiveInventory.java:219)
+	at createKit.createKit.onCommand(createKit.java:44)
+	at nl.rutgerkok.pokkit.plugin.PokkitPlugin.onCommand(PokkitPlugin.java:274)
+	at cn.nukkit.command.PluginCommand.execute(PluginCommand.java:33)
+	at cn.nukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:257)
+	at cn.nukkit.Server.dispatchCommand(Server.java:751)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2803)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:197)
+	at cn.nukkit.network.Network.processBatch(Network.java:180)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2092)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:83)
+	at cn.nukkit.Server.tick(Server.java:1124)
+	at cn.nukkit.Server.tickProcessor(Server.java:903)
+	at cn.nukkit.Server.start(Server.java:880)
+	at cn.nukkit.Server.<init>(Server.java:565)
+	at cn.nukkit.Nukkit.main(Nukkit.java:112)
+
+2019-12-23 23:45:08.766 [main] ERROR - Throwing
+java.lang.ArrayIndexOutOfBoundsException: 36
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.lambda$getContents$0(PokkitLiveInventory.java:219) ~[?:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_211]
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.getContents(PokkitLiveInventory.java:219) ~[?:?]
+	at createKit.createKit.onCommand(createKit.java:44) ~[?:?]
+	at nl.rutgerkok.pokkit.plugin.PokkitPlugin.onCommand(PokkitPlugin.java:274) ~[?:?]
+	at cn.nukkit.command.PluginCommand.execute(PluginCommand.java:33) ~[nukkit-357.jar:?]
+	at cn.nukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:257) ~[nukkit-357.jar:?]
+	at cn.nukkit.Server.dispatchCommand(Server.java:751) ~[nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2803) ~[nukkit-357.jar:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_211]
+	at cn.nukkit.network.Network.processPackets(Network.java:197) [nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processBatch(Network.java:180) [nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2092) [nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157) [nukkit-357.jar:?]
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132) [nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66) [nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processInterfaces(Network.java:83) [nukkit-357.jar:?]
+	at cn.nukkit.Server.tick(Server.java:1124) [nukkit-357.jar:?]
+	at cn.nukkit.Server.tickProcessor(Server.java:903) [nukkit-357.jar:?]
+	at cn.nukkit.Server.start(Server.java:880) [nukkit-357.jar:?]
+	at cn.nukkit.Server.<init>(Server.java:565) [nukkit-357.jar:?]
+	at cn.nukkit.Nukkit.main(Nukkit.java:112) [nukkit-357.jar:?]
+2019-12-23 23:45:33.136 [main] FATAL - Unhandled exception executing command "createkit starter" in createkit: java.lang.ArrayIndexOutOfBoundsException: 36
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.lambda$getContents$0(PokkitLiveInventory.java:219)
+	at java.util.HashMap.forEach(Unknown Source)
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.getContents(PokkitLiveInventory.java:219)
+	at createKit.createKit.onCommand(createKit.java:44)
+	at nl.rutgerkok.pokkit.plugin.PokkitPlugin.onCommand(PokkitPlugin.java:274)
+	at cn.nukkit.command.PluginCommand.execute(PluginCommand.java:33)
+	at cn.nukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:257)
+	at cn.nukkit.Server.dispatchCommand(Server.java:751)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2803)
+	at java.util.ArrayList.forEach(Unknown Source)
+	at cn.nukkit.network.Network.processPackets(Network.java:197)
+	at cn.nukkit.network.Network.processBatch(Network.java:180)
+	at cn.nukkit.Player.handleDataPacket(Player.java:2092)
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157)
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132)
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66)
+	at cn.nukkit.network.Network.processInterfaces(Network.java:83)
+	at cn.nukkit.Server.tick(Server.java:1124)
+	at cn.nukkit.Server.tickProcessor(Server.java:903)
+	at cn.nukkit.Server.start(Server.java:880)
+	at cn.nukkit.Server.<init>(Server.java:565)
+	at cn.nukkit.Nukkit.main(Nukkit.java:112)
+
+2019-12-23 23:45:33.142 [main] ERROR - Throwing
+java.lang.ArrayIndexOutOfBoundsException: 36
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.lambda$getContents$0(PokkitLiveInventory.java:219) ~[?:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_211]
+	at nl.rutgerkok.pokkit.inventory.PokkitLiveInventory.getContents(PokkitLiveInventory.java:219) ~[?:?]
+	at createKit.createKit.onCommand(createKit.java:44) ~[?:?]
+	at nl.rutgerkok.pokkit.plugin.PokkitPlugin.onCommand(PokkitPlugin.java:274) ~[?:?]
+	at cn.nukkit.command.PluginCommand.execute(PluginCommand.java:33) ~[nukkit-357.jar:?]
+	at cn.nukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:257) ~[nukkit-357.jar:?]
+	at cn.nukkit.Server.dispatchCommand(Server.java:751) ~[nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2803) ~[nukkit-357.jar:?]
+	at java.util.ArrayList.forEach(Unknown Source) [?:1.8.0_211]
+	at cn.nukkit.network.Network.processPackets(Network.java:197) [nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processBatch(Network.java:180) [nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2092) [nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157) [nukkit-357.jar:?]
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132) [nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66) [nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processInterfaces(Network.java:83) [nukkit-357.jar:?]
+	at cn.nukkit.Server.tick(Server.java:1124) [nukkit-357.jar:?]
+	at cn.nukkit.Server.tickProcessor(Server.java:903) [nukkit-357.jar:?]
+	at cn.nukkit.Server.start(Server.java:880) [nukkit-357.jar:?]
+	at cn.nukkit.Server.<init>(Server.java:565) [nukkit-357.jar:?]
+	at cn.nukkit.Nukkit.main(Nukkit.java:112) [nukkit-357.jar:?]
+2019-12-23 23:46:34.527 [main] INFO  - <LemonSqueezy360> ./seeinv LemonSqueezy360
+2019-12-23 23:47:21.925 [main] INFO  - §c5 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-23 23:47:22.924 [main] INFO  - §c4 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-23 23:47:23.923 [main] INFO  - §c3 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-23 23:47:24.924 [main] INFO  - §c2 seconds left to cleaning items on the ground, animals and mobs!
+2019-12-23 23:47:25.924 [main] INFO  - §c1 second left to cleaning items on the ground, animals and mobs!
+2019-12-23 23:47:26.924 [main] INFO  - §cItems on the ground, animals and mobs deleted!
+2019-12-23 23:49:05.186 [main] FATAL - Exception happened while ticking server
+java.lang.NoSuchMethodError: org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(Ljava/io/InputStream;)Lorg/bukkit/configuration/file/YamlConfiguration;
+	at me.wazup.kitbattle.main.reloadPlayersConfig(main.java:1611) ~[?:?]
+	at me.wazup.kitbattle.main.getPlayersConfig(main.java:1617) ~[?:?]
+	at me.wazup.kitbattle.main.unlockedKits(main.java:2173) ~[?:?]
+	at me.wazup.kitbattle.main.onCommand(main.java:655) ~[?:?]
+	at nl.rutgerkok.pokkit.plugin.PokkitPlugin.onCommand(PokkitPlugin.java:274) ~[?:?]
+	at cn.nukkit.command.PluginCommand.execute(PluginCommand.java:33) ~[nukkit-357.jar:?]
+	at cn.nukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:257) ~[nukkit-357.jar:?]
+	at cn.nukkit.Server.dispatchCommand(Server.java:751) ~[nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2803) ~[nukkit-357.jar:?]
+	at java.util.ArrayList.forEach(Unknown Source) ~[?:1.8.0_211]
+	at cn.nukkit.network.Network.processPackets(Network.java:197) ~[nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processBatch(Network.java:180) ~[nukkit-357.jar:?]
+	at cn.nukkit.Player.handleDataPacket(Player.java:2092) ~[nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.handleEncapsulated(RakNetInterface.java:157) ~[nukkit-357.jar:?]
+	at cn.nukkit.raknet.server.ServerHandler.handlePacket(ServerHandler.java:132) ~[nukkit-357.jar:?]
+	at cn.nukkit.network.RakNetInterface.process(RakNetInterface.java:66) ~[nukkit-357.jar:?]
+	at cn.nukkit.network.Network.processInterfaces(Network.java:83) ~[nukkit-357.jar:?]
+	at cn.nukkit.Server.tick(Server.java:1124) ~[nukkit-357.jar:?]
+	at cn.nukkit.Server.tickProcessor(Server.java:903) [nukkit-357.jar:?]
+	at cn.nukkit.Server.start(Server.java:880) [nukkit-357.jar:?]
+	at cn.nukkit.Server.<init>(Server.java:565) [nukkit-357.jar:?]
+	at cn.nukkit.Nukkit.main(Nukkit.java:112) [nukkit-357.jar:?]
+2019-12-23 23:49:05.359 [main] FATAL - 
+"Nukkit Asynchronous Task Handler #4" Id=36 WAITING on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+	at java.util.concurrent.SynchronousQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Nukkit Asynchronous Task Handler #3" Id=35 WAITING on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+	at java.util.concurrent.SynchronousQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Timer-2" Id=33 TIMED_WAITING on java.util.TaskQueue@1fbb83b
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@1fbb83b
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Nukkit Asynchronous Task Handler #2" Id=32 WAITING on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+	at java.util.concurrent.SynchronousQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Nukkit Asynchronous Task Handler #1" Id=31 WAITING on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+	at java.util.concurrent.SynchronousQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Nukkit Asynchronous Task Handler #0" Id=30 WAITING on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at sun.misc.Unsafe.park(Native Method)
+	-  waiting on java.util.concurrent.SynchronousQueue$TransferStack@113b17a
+	at java.util.concurrent.locks.LockSupport.park(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.awaitFulfill(Unknown Source)
+	at java.util.concurrent.SynchronousQueue$TransferStack.transfer(Unknown Source)
+	at java.util.concurrent.SynchronousQueue.take(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.getTask(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	...
+
+
+"Watchdog" Id=29 TIMED_WAITING on cn.nukkit.utils.Watchdog@904542
+	at java.lang.Object.wait(Native Method)
+	-  waiting on cn.nukkit.utils.Watchdog@904542
+	at cn.nukkit.utils.Watchdog.run(Watchdog.java:64)
+
+
+"Timer-1" Id=28 WAITING on java.util.TaskQueue@f53541
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@f53541
+	at java.lang.Object.wait(Unknown Source)
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"Timer-0" Id=18 TIMED_WAITING on java.util.TaskQueue@d9d684
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.util.TaskQueue@d9d684
+	at java.util.TimerThread.mainLoop(Unknown Source)
+	at java.util.TimerThread.run(Unknown Source)
+
+
+"threadDeathWatcher-3-1" Id=17 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at io.netty.util.ThreadDeathWatcher$Watcher.run(ThreadDeathWatcher.java:150)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
+
+
+"nioEventLoopGroup-2-1" Id=16 RUNNABLE (in native)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll0(Native Method)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.poll(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl$SubSelector.access$400(Unknown Source)
+	at sun.nio.ch.WindowsSelectorImpl.doSelect(Unknown Source)
+	at sun.nio.ch.SelectorImpl.lockAndDoSelect(Unknown Source)
+	-  locked io.netty.channel.nio.SelectedSelectionKeySet@b58084
+	-  locked java.util.Collections$UnmodifiableSet@436905
+	-  locked sun.nio.ch.WindowsSelectorImpl@1630471
+	at sun.nio.ch.SelectorImpl.select(Unknown Source)
+	at io.netty.channel.nio.NioEventLoop.select(NioEventLoop.java:759)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:400)
+	...
+
+
+"RakNet Thread #14" Id=14 TIMED_WAITING
+	at java.lang.Thread.sleep(Native Method)
+	at cn.nukkit.raknet.server.SessionManager.tickProcessor(SessionManager.java:96)
+	at cn.nukkit.raknet.server.SessionManager.run(SessionManager.java:70)
+	at cn.nukkit.raknet.server.SessionManager.<init>(SessionManager.java:58)
+	at cn.nukkit.raknet.server.RakNetServer.run(RakNetServer.java:101)
+
+
+"Thread-1" Id=12 TIMED_WAITING on org.jline.utils.NonBlockingPumpReader@1a29fef
+	at java.lang.Object.wait(Native Method)
+	-  waiting on org.jline.utils.NonBlockingPumpReader@1a29fef
+	at org.jline.utils.NonBlockingPumpReader.wait(NonBlockingPumpReader.java:55)
+	at org.jline.utils.NonBlockingPumpReader.read(NonBlockingPumpReader.java:101)
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57)
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:133)
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110)
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61)
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:786)
+	...
+
+
+"WindowsStreamPump" Id=11 RUNNABLE
+	at com.sun.jna.Native.invokeInt(Native Method)
+	at com.sun.jna.Function.invoke(Function.java:390)
+	at com.sun.jna.Function.invoke(Function.java:323)
+	at com.sun.jna.Library$Handler.invoke(Library.java:236)
+	at org.jline.terminal.impl.jna.win.$Proxy16.WaitForSingleObject(Unknown Source)
+	at org.jline.terminal.impl.jna.win.JnaWinSysTerminal.readConsoleInput(JnaWinSysTerminal.java:176)
+	at org.jline.terminal.impl.jna.win.JnaWinSysTerminal.processConsoleInput(JnaWinSysTerminal.java:99)
+	at org.jline.terminal.impl.AbstractWindowsTerminal.pump(AbstractWindowsTerminal.java:459)
+	...
+
+
+"Attach Listener" Id=5 RUNNABLE
+
+
+"Signal Dispatcher" Id=4 RUNNABLE
+
+
+"Finalizer" Id=3 WAITING on java.lang.ref.ReferenceQueue$Lock@18b9bbf
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.ReferenceQueue$Lock@18b9bbf
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.ReferenceQueue.remove(Unknown Source)
+	at java.lang.ref.Finalizer$FinalizerThread.run(Unknown Source)
+
+
+"Reference Handler" Id=2 WAITING on java.lang.ref.Reference$Lock@e3d78a
+	at java.lang.Object.wait(Native Method)
+	-  waiting on java.lang.ref.Reference$Lock@e3d78a
+	at java.lang.Object.wait(Unknown Source)
+	at java.lang.ref.Reference.tryHandlePending(Unknown Source)
+	at java.lang.ref.Reference$ReferenceHandler.run(Unknown Source)
+
+
+"main" Id=1 RUNNABLE
+	at sun.management.ThreadImpl.dumpThreads0(Native Method)
+	at sun.management.ThreadImpl.dumpAllThreads(Unknown Source)
+	at cn.nukkit.utils.Utils.getAllThreadDumps(Utils.java:112)
+	at cn.nukkit.Server.tickProcessor(Server.java:935)
+	at cn.nukkit.Server.start(Server.java:880)
+	at cn.nukkit.Server.<init>(Server.java:565)
+	at cn.nukkit.Nukkit.main(Nukkit.java:112)
+
+
+2019-12-23 23:49:05.405 [main] INFO  - §eLemonSqueezy360 left the game
+2019-12-23 23:49:05.412 [main] INFO  - §bLemonSqueezy360§f[/192.168.1.254:19132] logged out due to Server closed
+2019-12-23 23:49:05.436 [main] INFO  - §eBeasty6000 left the game
+2019-12-23 23:49:05.445 [main] INFO  - §bBeasty6000§f[/173.75.62.21:64234] logged out due to Server closed
+2019-12-23 23:49:05.470 [main] INFO  - Disabling AdvancedKits v2.3
+2019-12-23 23:49:05.527 [main] INFO  - Disabling SeeInv v1.0
+2019-12-23 23:49:05.543 [main] INFO  - Disabling ReportSystem v1.0-SNAPSHOT
+2019-12-23 23:49:05.555 [main] INFO  - [ReportSystem] Disabling ReportSystem...
+2019-12-23 23:49:05.579 [main] INFO  - Disabling Pokkit v0.9.1
+2019-12-23 23:49:05.739 [main] INFO  - [Pokkit] [Vault] Disabling Vault v1.7.2-b107
+2019-12-23 23:49:05.760 [main] INFO  - [Pokkit] [PureKits] Disabling PureKits v1.1
+2019-12-23 23:49:05.779 [main] INFO  - [Pokkit] [PureKits] Disabled PureKits
+2019-12-23 23:49:05.793 [main] INFO  - [Pokkit] [KitBattle] Disabling KitBattle v2.5
+2019-12-23 23:49:05.798 [main] INFO  - [Pokkit] [KitBattle] Has Been Disabled!
+2019-12-23 23:49:05.813 [main] INFO  - Disabling MultiWorld v1.0
+2019-12-23 23:49:05.818 [main] INFO  - Disabling FFA v1.2
+2019-12-23 23:49:05.827 [main] INFO  - Disabling FastAsyncWorldEdit v19.03.29-d13b946-1257-22.0.14
+2019-12-23 23:49:05.836 [main] INFO  - Disabling FakeInventories v1.0.3
+2019-12-23 23:49:05.842 [main] INFO  - Disabling Factions v1.7.0
+2019-12-23 23:49:05.872 [main] INFO  - [Factions] [Factions v1.7.0] Disabled
+2019-12-23 23:49:05.877 [main] INFO  - Disabling EssentialsNK v1.8.0
+2019-12-23 23:49:05.886 [main] INFO  - Disabling EconomyAPI v2.0.1
+2019-12-23 23:49:05.899 [main] INFO  - Disabling DiscordChat v1.1
+2019-12-23 23:49:05.907 [main] INFO  - Disabling CustomEnchantsNK v1.0.0-beta3
+2019-12-23 23:49:05.912 [main] INFO  - Disabling AutoCleaner v1.0.1
+2019-12-23 23:49:05.922 [main] INFO  - Unloading level "§aworld§f"
+2019-12-23 23:49:06.358 [main] INFO  - Unloading level "§anether§f"
+2019-12-23 23:49:06.472 [main] INFO  - Stopping other threads
